@@ -1,0 +1,58 @@
+<div id="accordion-raca">
+	<h2>Informações gerais do Affenpinscher</h2>
+	<div class="acc_pag">
+		<li class="raca_destaques">
+			<div id="dados_raca">
+				<div class="nome_cientifico">
+					<h3>Affenpinscher (Grifo Macaco)</h3>
+				</div>
+				<div class="cat_racas">TAMANHO</div>
+				<div class="dado">Macho: De 25 a 30 cm.</div>
+				<div class="dado">Fêmea: De 25 a 30 cm.</div>
+				<div class="cat_racas">PESO</div>
+				<div class="dado">Macho: De 4 a 6 kg.</div>
+				<div class="dado">Fêmea: De 4 a 6 kg.</div>
+				<div class="cat_racas">PERFIL</div>
+				<div class="dado">Esse pequeno cão hirsuto, de trote muito curto e de grandes olhos redondos, tem uma expressão semiesca característica.</div>
+				<div class="cat_racas">TEMPERAMENTO</div>
+				<div class="dado">É um cão de companhia charmoso, vivo e inteligente.</div>
+			</div>
+			<div id="descricao_raca">Grata mistura de exuberância e de sabedoria, esse pequeno animal de companhia, brincalhão e dinâmico, adora se fazer de palhaço. É também obediente e calmo, quando necessário.O Affenpinscher está perfeitamente adaptado à vida em apartamentos, e cuidar de seu pelo é fácil.Seu apego ao lar, seu arrojo e vigilância fazem dele excelente guarda. É também bom caçador de roedores. Em concursos, um comportamento medroso ou agressivo provoca desqualificação.</div>
+		</li>
+	</div>
+	<h2>Características do Affenpinscher</h2>
+	<div class="acc_pag">
+		<li class="raca_destaques">
+			<div id="caracteristicas_raca">
+				<ul>
+					<li><b>Nível de energia : </b><span class="car_dados">Alto</span></li>
+					<li><b>Exercício : </b><span class="car_dados">Moderado</span></li>
+					<li><b>Brincalhão : </b><span class="car_dados">Muito brincalhão</span></li>
+					<li><b>Nível de afeição : </b><span class="car_dados">Muito apegado</span></li>
+					<li><b>Amigável com outros cachorros : </b><span class="car_dados">Amigável</span></li>
+					<li><b>Amigável com outros animais de estimação : </b><span class="car_dados">Amigável</span></li>
+					<li><b>Amigável com estranhos : </b><span class="car_dados">Amigável</span></li>
+					<li><b>Fácil de Treinar : </b><span class="car_dados">Fácil</span></li>
+					<li><b>Cão de Guarda : </b><span class="car_dados">Sim</span></li>
+					<li><b>Habilidade de proteção : </b><span class="car_dados">Não muito protetor</span></li>
+					<li><b>Cuidados com a aparência : </b><span class="car_dados">Frequentes</span></li>
+					<li><b>Tolerância ao frio : </b><span class="car_dados">Baixa tolerância</span></li>
+					<li><b>Tolerância ao calor : </b><span class="car_dados">Média tolerância</span></li>
+				</ul>
+				<br clear="all" />
+			</div>
+		</li>
+	</div>
+	<h2>Saúde do Affenpinscher</h2>
+	<div class="acc_pag">
+		<li class="raca_destaques">
+			<div class="dado">Apesar de ser um cachorro energético, a quantidade de exercício para suprir o Affenpinscher é pequena. Adora brincar no quintal, mas não pode viver fora de casa. Sua pelagem precisa de cuidados de duas a três vezes semanalmente.Expectativa de vida: 12 a 14 anos.</div>
+		</li>
+	</div>
+	<h2>Origem do Affenpinscher</h2>
+	<div class="acc_pag">
+		<li class="raca_destaques">
+			<div class="dado">Cão de companhia bastante representado em quadros de Albrecht Durer (1471-1528), o Affenpinscher nasceu na Alemanha. Sua ligeira semelhança com um macaco deu-lhe o nome (Affe significa macaco, em alemão) e fez que fosse por vezes chamado de Grifo Macaco. Oriundo da família dos Pinschers e Schnauzers, ele é aparentado aos Grifos Belgas, que descendem parcialmente dessa família.</div>
+		</li>
+	</div>
+</div>
