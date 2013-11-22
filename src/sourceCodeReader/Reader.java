@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
 public class Reader {
 	
 	public String sugarHTML(String textoURL) throws MalformedURLException, IOException {
@@ -22,7 +25,12 @@ public class Reader {
 		return texto;
 	}
 	
-	public void escreverTxt (String texto) {
+	public String getHTML (String url) throws IOException {
+	
+//		Armazenar todo conteúdo do HTML
+		Document documento = Jsoup.connect(url).get();
 		
+		
+		return documento.toString();
 	}
 }

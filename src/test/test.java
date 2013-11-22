@@ -9,7 +9,7 @@ public class test {
 
 	public static void main(String[] args) throws MalformedURLException, IOException {
 		Reader reader = new Reader();
-		System.out.println(reader.sugarHTML("http://portaldodog.com.br/cachorros/racas/affenpinscher/"));
+		System.out.println(reader.getHTML("http://portaldodog.com.br/cachorros/racas/affenpinscher/"));
 		
 	}
 }
