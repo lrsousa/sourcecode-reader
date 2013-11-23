@@ -1,20 +1,19 @@
 package modelo;
 
+
 public class Cachorro {
 	
 //	Informações Gerais
+	/*FEITO*/
 	String nome;
 	String infoGeral;
+	String nomeCientifico;
 	String perfil;
 	String temperamento;
-	Integer minTamanhoMacho;
-	Integer maxTamanhoMacho;
-	Integer minTamanhoFemea;
-	Integer maxTamanhoFemea;
-	Integer minPesoMacho;
-	Integer maxPesoMacho;
-	Integer minPesoFemea;
-	Integer maxPesoFemea;
+	String tamanhoMacho;
+	String tamanhoFemea;
+	String pesoMacho;
+	String pesoFemea;
 	
 //	Caracteristicas
 	String nivelEnergia;
@@ -30,11 +29,9 @@ public class Cachorro {
 	String cuidadosAparencia;
 	String toleranciaFrio;
 	String toleranciaCalor;
-	
-//	Saude
+
 	String saude;
-	
-//	Origem
+
 	String origem;
 
 //	Construtor
@@ -74,53 +71,29 @@ public class Cachorro {
 	public void setTemperamento(String temperamento) {
 		this.temperamento = temperamento;
 	}
-	public Integer getMinTamanhoMacho() {
-		return minTamanhoMacho;
+	public String getTamanhoMacho() {
+		return tamanhoMacho;
 	}
-	public void setMinTamanhoMacho(Integer minTamanhoMacho) {
-		this.minTamanhoMacho = minTamanhoMacho;
+	public void setTamanhoMacho(String tamanhoMacho) {
+		this.tamanhoMacho = tamanhoMacho;
 	}
-	public Integer getMaxTamanhoMacho() {
-		return maxTamanhoMacho;
+	public String getTamanhoFemea() {
+		return tamanhoFemea;
 	}
-	public void setMaxTamanhoMacho(Integer maxTamanhoMacho) {
-		this.maxTamanhoMacho = maxTamanhoMacho;
+	public void setTamanhoFemea(String tamanhoFemea) {
+		this.tamanhoFemea = tamanhoFemea;
 	}
-	public Integer getMinTamanhoFemea() {
-		return minTamanhoFemea;
+	public String getPesoMacho() {
+		return pesoMacho;
 	}
-	public void setMinTamanhoFemea(Integer minTamanhoFemea) {
-		this.minTamanhoFemea = minTamanhoFemea;
+	public void setPesoMacho(String pesoMacho) {
+		this.pesoMacho = pesoMacho;
 	}
-	public Integer getMaxTamanhoFemea() {
-		return maxTamanhoFemea;
+	public String getPesoFemea() {
+		return pesoFemea;
 	}
-	public void setMaxTamanhoFemea(Integer maxTamanhoFemea) {
-		this.maxTamanhoFemea = maxTamanhoFemea;
-	}
-	public Integer getMinPesoMacho() {
-		return minPesoMacho;
-	}
-	public void setMinPesoMacho(Integer minPesoMacho) {
-		this.minPesoMacho = minPesoMacho;
-	}
-	public Integer getMaxPesoMacho() {
-		return maxPesoMacho;
-	}
-	public void setMaxPesoMacho(Integer maxPesoMacho) {
-		this.maxPesoMacho = maxPesoMacho;
-	}
-	public Integer getMinPesoFemea() {
-		return minPesoFemea;
-	}
-	public void setMinPesoFemea(Integer minPesoFemea) {
-		this.minPesoFemea = minPesoFemea;
-	}
-	public Integer getMaxPesoFemea() {
-		return maxPesoFemea;
-	}
-	public void setMaxPesoFemea(Integer maxPesoFemea) {
-		this.maxPesoFemea = maxPesoFemea;
+	public void setPesoFemea(String pesoFemea) {
+		this.pesoFemea = pesoFemea;
 	}
 	public String getNivelEnergia() {
 		return nivelEnergia;

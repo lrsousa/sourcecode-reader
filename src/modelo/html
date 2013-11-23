@@ -1,58 +1,886 @@
-<div id="accordion-raca">
-	<h2>Informações gerais do Affenpinscher</h2>
-	<div class="acc_pag">
-		<li class="raca_destaques">
-			<div id="dados_raca">
-				<div class="nome_cientifico">
-					<h3>Affenpinscher (Grifo Macaco)</h3>
-				</div>
-				<div class="cat_racas">TAMANHO</div>
-				<div class="dado">Macho: De 25 a 30 cm.</div>
-				<div class="dado">Fêmea: De 25 a 30 cm.</div>
-				<div class="cat_racas">PESO</div>
-				<div class="dado">Macho: De 4 a 6 kg.</div>
-				<div class="dado">Fêmea: De 4 a 6 kg.</div>
-				<div class="cat_racas">PERFIL</div>
-				<div class="dado">Esse pequeno cão hirsuto, de trote muito curto e de grandes olhos redondos, tem uma expressão semiesca característica.</div>
-				<div class="cat_racas">TEMPERAMENTO</div>
-				<div class="dado">É um cão de companhia charmoso, vivo e inteligente.</div>
-			</div>
-			<div id="descricao_raca">Grata mistura de exuberância e de sabedoria, esse pequeno animal de companhia, brincalhão e dinâmico, adora se fazer de palhaço. É também obediente e calmo, quando necessário.O Affenpinscher está perfeitamente adaptado à vida em apartamentos, e cuidar de seu pelo é fácil.Seu apego ao lar, seu arrojo e vigilância fazem dele excelente guarda. É também bom caçador de roedores. Em concursos, um comportamento medroso ou agressivo provoca desqualificação.</div>
-		</li>
-	</div>
-	<h2>Características do Affenpinscher</h2>
-	<div class="acc_pag">
-		<li class="raca_destaques">
-			<div id="caracteristicas_raca">
-				<ul>
-					<li><b>Nível de energia : </b><span class="car_dados">Alto</span></li>
-					<li><b>Exercício : </b><span class="car_dados">Moderado</span></li>
-					<li><b>Brincalhão : </b><span class="car_dados">Muito brincalhão</span></li>
-					<li><b>Nível de afeição : </b><span class="car_dados">Muito apegado</span></li>
-					<li><b>Amigável com outros cachorros : </b><span class="car_dados">Amigável</span></li>
-					<li><b>Amigável com outros animais de estimação : </b><span class="car_dados">Amigável</span></li>
-					<li><b>Amigável com estranhos : </b><span class="car_dados">Amigável</span></li>
-					<li><b>Fácil de Treinar : </b><span class="car_dados">Fácil</span></li>
-					<li><b>Cão de Guarda : </b><span class="car_dados">Sim</span></li>
-					<li><b>Habilidade de proteção : </b><span class="car_dados">Não muito protetor</span></li>
-					<li><b>Cuidados com a aparência : </b><span class="car_dados">Frequentes</span></li>
-					<li><b>Tolerância ao frio : </b><span class="car_dados">Baixa tolerância</span></li>
-					<li><b>Tolerância ao calor : </b><span class="car_dados">Média tolerância</span></li>
-				</ul>
-				<br clear="all" />
-			</div>
-		</li>
-	</div>
-	<h2>Saúde do Affenpinscher</h2>
-	<div class="acc_pag">
-		<li class="raca_destaques">
-			<div class="dado">Apesar de ser um cachorro energético, a quantidade de exercício para suprir o Affenpinscher é pequena. Adora brincar no quintal, mas não pode viver fora de casa. Sua pelagem precisa de cuidados de duas a três vezes semanalmente.Expectativa de vida: 12 a 14 anos.</div>
-		</li>
-	</div>
-	<h2>Origem do Affenpinscher</h2>
-	<div class="acc_pag">
-		<li class="raca_destaques">
-			<div class="dado">Cão de companhia bastante representado em quadros de Albrecht Durer (1471-1528), o Affenpinscher nasceu na Alemanha. Sua ligeira semelhança com um macaco deu-lhe o nome (Affe significa macaco, em alemão) e fez que fosse por vezes chamado de Grifo Macaco. Oriundo da família dos Pinschers e Schnauzers, ele é aparentado aos Grifos Belgas, que descendem parcialmente dessa família.</div>
-		</li>
-	</div>
-</div>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-BR">
+ <head>
+  <link rel="stylesheet" type="text/css" href="http://portaldodog.com.br/cachorros/wp-content/cache/minify/000000/81b26/default.include.945765.css" media="all" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="pingback" href="http://portaldodog.com.br/cachorros/xmlrpc.php" />
+  <title> Affenpinscher</title>
+  <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css" />
+  <style type="text/css" media="screen">@import url(http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/jquery.jscrollpane.css);</style>
+  <style type="text/css">.stpulldown-gradient{background:#E1E1E1;background:-moz-linear-gradient(top,#E1E1E1 0%,#A7A7A7 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#E1E1E1),color-stop(100%,#A7A7A7));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E1E1E1',endColorstr='#A7A7A7',GradientType=0);background:-o-linear-gradient(top,#E1E1E1 0%,#A7A7A7 100%);color:#636363}#stpulldown .stpulldown-logo{height:40px;width:300px;margin-left:20px;margin-top:5px;background:url('') no-repeat}</style>
+  <meta name="description" content="Saiba tudo sobre o Affenpinscher no Portal do Dog." />
+  <link rel="canonical" href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" />
+  <link rel="publisher" href="https://plus.google.com/107372596259737261558" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Affenpinscher" />
+  <meta property="og:description" content="Saiba tudo sobre o Affenpinscher no Portal do Dog." />
+  <meta property="og:url" content="http://portaldodog.com.br/cachorros/racas/affenpinscher/" />
+  <meta property="og:site_name" content="Portal do Dog - O maior Portal de Cachorros do Brasil" />
+  <meta property="article:publisher" content="http://www.facebook.com/portaldodog" />
+  <meta property="article:section" content="Grupo Toy" />
+  <meta property="article:section" content="Ra&ccedil;as" />
+  <meta property="article:published_time" content="2012-07-04T17:37:25+00:00" />
+  <meta property="article:modified_time" content="2013-10-12T17:45:42+00:00" />
+  <meta property="og:image" content="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/07/affenpinscher_racas_portaldodog-10.jpg" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@PortaldoDog" />
+  <meta name="twitter:domain" content="Portal do Dog - O maior Portal de Cachorros do Brasil" />
+  <meta name="twitter:creator" content="@PortaldoDog" />
+  <link rel="alternate" type="application/rss+xml" title="Portal do Dog - O maior Portal de Cachorros do Brasil &raquo; Affenpinscher  Feed de coment&aacute;rios" href="http://portaldodog.com.br/cachorros/racas/affenpinscher/feed/" />
+  <link rel="stylesheet" id="nextgen_gallery_related_images-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.7.1" type="text/css" media="all" />
+  <link rel="stylesheet" id="tubepress-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5/sys/ui/themes/default/style.css?ver=3.7.1" type="text/css" media="all" />
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+  <script type="text/javascript">var jQueryColorboxSettingsArray={"jQueryColorboxVersion":"4.6","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"true","colorboxSlideshowAuto":"false","colorboxScalePhotos":"true","colorboxPreloading":"true","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"fechar","colorboxNext":"pr\u00f3xima","colorboxPrevious":"anterior","colorboxSlideshowStart":"iniciar apresenta\u00e7\u00e3o","colorboxSlideshowStop":"parar apresenta\u00e7\u00e3o","colorboxCurrent":"Imagem {current} de {total}","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"80%","colorboxImageMaxHeight":"80%","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"80%","colorboxLinkWidth":"80%","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"true","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};</script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.3.21"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6"></script>
+  <script type="text/javascript">var photocrati_ajax={"url":"http:\/\/portaldodog.com.br\/cachorros\/photocrati_ajax","wp_site_url":"http:\/\/portaldodog.com.br\/cachorros","wp_site_static_url":"http:\/\/portaldodog.com.br\/cachorros"};</script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.7.1"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5/sys/ui/static/js/tubepress.js?ver=3.7.1"></script>
+  <link rel="shortlink" href="http://portaldodog.com.br/cachorros/?p=1017" />
+  <style type="text/css"><br /> <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/underweb/public_html/cachorros/wp-content/plugins/collapsing-archives/collapsArch.php</b> on line <b>63</b><br />/*]]>*/</style> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-smooth-gallery/SmoothGallery/scripts/mootools.v1.11.js"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-smooth-gallery/SmoothGallery/scripts/jd.gallery.js"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-smooth-gallery/SmoothGallery/scripts/jd.gallery.transitions.js"></script>
+  <script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+  <script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script charset="utf-8" type="text/javascript">stLight.options({publisher:"62efc7fd-5212-4699-9b24-670607978294"});var st_type='wordpress3.6.1';</script>
+  <script type="text/javascript">function getTubePressBaseUrl(){return"http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5";}</script>
+  <style type="text/css">.wp-polls .pollbar{margin:1px;font-size:6px;line-height:8px;height:8px;background-image:url('http://portaldodog.com.br/cachorros/wp-content/plugins/wp-polls/images/default/pollbg.gif');border:1px solid #c8c8c8}</style>
+  <script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-19765480-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+  <script>/*<![CDATA[*/(function(url){var
+isSSL=document.location.protocol==='https:',r7adUrl=(isSSL?'https:':'http:')+'//adv.r7.com/script?href=',pageUrl=(typeof url==='undefined'?document.location.href:url);document.write('<scr'+'ipt src="'+r7adUrl+pageUrl+'"><\/scr'+'ipt>');}());/*]]>*/</script>
+ </head>
+ <body>
+  <script type="text/javascript" src="http://barra.r7.com/bariso.js"></script>
+  <div id="logo_total">
+   <div id="logo">
+    <a class="esquerda_logo" href="http://portaldodog.com.br/cachorros" title="Logo Portal do Dog"><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/Novo/logo_portal-do-dog-br.png" title="logo portal do dog" alt="portal do dog" style="padding:15px 0 20px" /></a>
+    <div style="float:right; width:728px; height:90px; margin-top:15px;">
+     <script>r7ad.printGAds([728,90],'Superbanner');</script>
+    </div>
+   </div>
+  </div>
+  <nav id="menu" role="navigation">
+   <ul>
+    <div id="back_menu"></div>
+    <li><a class="principal" href="http://portaldodog.com.br/cachorros" title="In&iacute;cio Portal do Dog" style="font-size:16px;">In&iacute;cio</a></li>
+    <li id="not"><a class="principal noticias-menu" href="#">Not&iacute;cias</a>
+     <div class="submenu not">
+      <div class="trescolunas_primeira sub-noticia"> 
+       <span class="subtitulo_links primeiro-sub"><a title="Not&iacute;cias" href="http://portaldodog.com.br/cachorros/category/noticias/">Not&iacute;cias</a></span> 
+       <span class="subtitulo_links"><a title="Dicas de Compras" href="http://portaldodog.com.br/cachorros/category/dica-de-compra/">Dicas de Compra</a></span> 
+       <span class="subtitulo_links"><a title="Celebridades" href="http://portaldodog.com.br/cachorros/category/celebridades/">Celebridades</a></span> 
+       <span class="subtitulo_links"><a title="Jogos de Cachorros" href="http://portaldodog.com.br/cachorros/category/entretenimento/">Entretenimento</a></span> 
+       <span class="subtitulo_links"><a title="Entrevistas" href="http://portaldodog.com.br/cachorros/category/entrevistas/">Entrevistas</a></span>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div> 
+       <span class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
+       <span class="subtitulo_not"><a title="Foram definidas as regras para emiss&atilde;o de passaporte de c&atilde;es e gatos" href="http://portaldodog.com.br/cachorros/noticias/foram-definidas-regras-para-emissao-de-passaporte-de-caes-e-gatos/">Foram definidas as regras para emiss&atilde;o de passaporte de c&atilde;es e gatos</a></span> 
+       <span class="titulo_cat_submenu cat_celebridades"><a href="http://portaldodog.com.br/cachorros/category/celebridades/" title="Ver todos os posts em Celebridades" rel="category tag">Celebridades</a></span> 
+       <span class="subtitulo_not"><a title="C&eacute;sar Menotti e seu cachorro se esfor&ccedil;am para emagrecer" href="http://portaldodog.com.br/cachorros/celebridades/cesar-menotti-e-seu-cachorro-se-esforcam-para-emagrecer/">C&eacute;sar Menotti e seu cachorro se esfor&ccedil;am para emagrecer</a></span> 
+       <span class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
+       <span class="subtitulo_not"><a title="Bombeiros resgatam cachorro que ficou preso em tubula&ccedil;&atilde;o" href="http://portaldodog.com.br/cachorros/noticias/bombeiros-resgatam-cachorro-que-ficou-preso-em-tubulacao/">Bombeiros resgatam cachorro que ficou preso em tubula&ccedil;&atilde;o</a></span> 
+       <span class="titulo_cat_submenu cat_celebridades"><a href="http://portaldodog.com.br/cachorros/category/celebridades/" title="Ver todos os posts em Celebridades" rel="category tag">Celebridades</a></span> 
+       <span class="subtitulo_not"><a title="B&aacute;rbara Evans est&aacute; apaixonada por seu cachorro" href="http://portaldodog.com.br/cachorros/celebridades/barbara-evans-esta-apaixonada-por-seu-cachorro/">B&aacute;rbara Evans est&aacute; apaixonada por seu cachorro</a></span>
+      </div>
+      <div class="trescolunas ultimo"> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/noticias/foram-definidas-regras-para-emissao-de-passaporte-de-caes-e-gatos/" title="Foram definidas as regras para emiss&atilde;o de passaporte de c&atilde;es e gatos"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/passaporte_caes-gatos-350x142.jpg" class="img-submenu noticias-m colorbox-17236  wp-post-image" alt="(Foto: Reprodu&ccedil;&atilde;o / Di&aacute;rio Oficial da Uni&atilde;o)" /></a>
+       <h4 class="not-submenu-h4"><a title="Foram definidas as regras para emiss&atilde;o de passaporte de c&atilde;es e gatos" href="http://portaldodog.com.br/cachorros/noticias/foram-definidas-regras-para-emissao-de-passaporte-de-caes-e-gatos/">Foram definidas as regras para emiss&atilde;o de passaporte de c&atilde;es e gatos</a></h4>
+      </div>
+     </div></li>
+    <li id="car"><a class="principal cachorro-menu" href="#">Cachorro</a>
+     <div class="submenu car">
+      <div class="trescolunas_primeira sub-cachorro"> 
+       <span class="subtitulo_links primeiro-sub"><a title="Listas" href="http://portaldodog.com.br/cachorros/category/listas/">Listas</a></span> 
+       <span class="subtitulo_links"><a title="Curiosidades" href="http://portaldodog.com.br/cachorros/category/curiosidades/">Curiosidades</a></span> 
+       <span class="subtitulo_links"><a title="O Cachorro" href="http://portaldodog.com.br/cachorros/category/cachorro/">O Cachorro</a></span> 
+       <span class="subtitulo_links"><a title="Por que Meu Cachorro" href="http://portaldodog.com.br/cachorros/category/series_especiais/porque/">Por que Meu Cachorro?</a></span>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div> 
+       <span class="titulo_cat_submenu cat_curiosidades"><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Ver todos os posts em Curiosidades" rel="category tag">Curiosidades</a></span> 
+       <span class="subtitulo_not"><a title="Teste o QI do seu cachorro" href="http://portaldodog.com.br/cachorros/curiosidades/teste-o-qi-seu-cachorro/">Teste o QI do seu cachorro</a></span> 
+       <span class="titulo_cat_submenu cat_listas"><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Ver todos os posts em Listas" rel="category tag">Listas</a></span> 
+       <span class="subtitulo_not"><a title="11 coisas que os cachorros fazem melhor do que voc&ecirc;" href="http://portaldodog.com.br/cachorros/listas/11-coisas-que-os-cachorros-fazem-melhor-que-voce/">11 coisas que os cachorros fazem melhor do que voc&ecirc;</a></span> 
+       <span class="titulo_cat_submenu cat_listas"><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Ver todos os posts em Listas" rel="category tag">Listas</a></span> 
+       <span class="subtitulo_not"><a title="20 obras com c&atilde;es retratados em graffiti" href="http://portaldodog.com.br/cachorros/listas/20-obras-com-caes-retratados-em-graffiti/">20 obras com c&atilde;es retratados em graffiti</a></span> 
+       <span class="titulo_cat_submenu cat_curiosidades"><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Ver todos os posts em Curiosidades" rel="category tag">Curiosidades</a></span> 
+       <span class="subtitulo_not"><a title="Cachorros t&ecirc;m a intelig&ecirc;ncia de uma crian&ccedil;a de 2 anos" href="http://portaldodog.com.br/cachorros/curiosidades/cachorros-tem-inteligencia-de-uma-crianca-de-2-anos/">Cachorros t&ecirc;m a intelig&ecirc;ncia de uma crian&ccedil;a de 2 anos</a></span>
+      </div>
+      <div class="trescolunas ultimo"> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_cachorro"><a href="http://portaldodog.com.br/cachorros/category/cachorro/" title="Ver todos os posts em O Cachorro" rel="category tag">O Cachorro</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/cachorro/day-care-canino-e-otima-opcao-para-preencher-o-cotidiano-do-seu-cao/" title="Day Care canino &eacute; &oacute;tima op&ccedil;&atilde;o para preencher o cotidiano do seu c&atilde;o"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/day-care-cachorro-3-350x142.jpg" class="img-submenu cachorro-m colorbox-17087  wp-post-image" alt="Foto: Fabio Sakita" /></a>
+       <h4 class="cach-submenu-h4"><a title="Day Care canino &eacute; &oacute;tima op&ccedil;&atilde;o para preencher o cotidiano do seu c&atilde;o" href="http://portaldodog.com.br/cachorros/cachorro/day-care-canino-e-otima-opcao-para-preencher-o-cotidiano-do-seu-cao/">Day Care canino &eacute; &oacute;tima op&ccedil;&atilde;o para preencher o cotidiano do seu c&atilde;o</a></h4>
+      </div>
+     </div></li>
+    <li id="racas"><a class="principal racas-menu" href="#">Ra&ccedil;as</a>
+     <div class="submenu racas">
+      <div class="trescolunas_primeira sub-racas">
+       <div class="titulo-ultimas" style="margin-bottom:15px;">
+        RA&Ccedil;AS DE A &Agrave; Z
+       </div>
+       <div id="lista_letras">
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/a/">A</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/b/">B</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/c/">C</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/d/">D</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/e/">E</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/f/">F</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/g/">G</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/h/">H</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/i/">I</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/j/">J</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/k/">K</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/l/">L</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/m/">M</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/n/">N</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/o/">O</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/p/">P</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/q/">Q</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/r/">R</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/s/">S</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/t/">T</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/u/">U</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/v/">V</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/w/">W</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/x/">X</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/y/">Y</a> 
+        <a href="http://portaldodog.com.br/site/racas-de-cachorros/z/">Z</a>
+       </div>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas" style="margin-bottom:15px;">
+        GRUPOS AKC
+       </div>
+       <div class="racas-akc">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-trabalho.png" title="Grupo de Trabalho" alt="grupo de trabalho" />
+        <span class="grupos_akc"><a title="Grupo AKC Trabalho" href="http://portaldodog.com.br/cachorros/category/racas/trabalho/">Grupo de Trabalho</a></span>
+       </div>
+       <div class="racas-akc right">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-terrier.png" title="Grupo Terrier" alt="grupo terrier" />
+        <span class="grupos_akc"><a title="Grupo AKC Terrier" href="http://portaldodog.com.br/cachorros/category/racas/terrier/">Grupo de Terrier</a></span>
+       </div>
+       <div class="racas-akc">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-toy.png" title="Grupo Toy" alt="grupo toy" />
+        <span class="grupos_akc"><a title="Grupo AKC Toy" href="http://portaldodog.com.br/cachorros/category/racas/toy/">Grupo Toy</a></span>
+       </div>
+       <div class="racas-akc right">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-esportivo.png" title="Grupo Esportivo" alt="grupo esportivo" />
+        <span class="grupos_akc"><a title="Grupo AKC Esportistas" href="http://portaldodog.com.br/cachorros/category/racas/esportistas/">Esportistas</a></span>
+       </div>
+       <div class="racas-akc">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-nao-desportista.png" title="Grupo N&atilde;o Desportivos" alt="grupo n&atilde;o desportivos " />
+        <span class="grupos_akc"><a title="Grupo AKC N&atilde;o Desportivos" href="http://portaldodog.com.br/cachorros/category/racas/naodesportivos/">N&atilde;o Desportivos</a></span>
+       </div>
+       <div class="racas-akc right">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-hound.png" title="Grupo Hound" />
+        <span class="grupos_akc"><a title="Grupo AKC Hound" href="http://portaldodog.com.br/cachorros/category/racas/hound/">Grupo Hound</a></span>
+       </div>
+       <div class="racas-akc">
+        <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-pastoeiro.png" title="Grupo Pastoeiro" alt="grupo pastoeiro" />
+        <span class="grupos_akc"><a title="Grupo AKC Pastoreio" href="http://portaldodog.com.br/cachorros/category/racas/pastoreio/">Grupo Pastoreio</a></span>
+       </div>
+      </div>
+      <div class="trescolunas ultimo">
+       <div class="titulo-ultimas" style="margin-bottom:15px;">
+        RA&Ccedil;A DO DIA
+       </div>
+       <div class="raca-dia-menu">
+        <a href="http://portaldodog.com.br/cachorros/racas/spinone-italiano"><img width="350" height="220" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/Spinone_Italiano_raca_portal_dog-2-350x220.jpg" class="attachment-raca_dia_index colorbox-17087  wp-post-image" alt="Spinone_Italiano_raca_portal_dog (2)" /></a>
+        <div id="raca_do_dia">
+         <span style="font-size:18px;"><a href="http://portaldodog.com.br/cachorros/racas/spinone-italiano">Spinone Italiano</a></span>
+         <br />
+         <span style="display:block; margin-top:10px;">C&atilde;o compacto, musculoso e forte, de roupagem semelhante &agrave; do Grifo.</span>
+        </div>
+       </div>
+      </div>
+     </div></li>
+    <li id="bem"><a class="principal bem-menu" href="#">Bem Estar</a>
+     <div class="submenu bem">
+      <div class="trescolunas_primeira sub-bem"> 
+       <span class="subtitulo_links primeiro-sub"><a title="Sa&uacute;de Canina" href="http://portaldodog.com.br/cachorros/category/saude/">Sa&uacute;de</a></span> 
+       <span class="subtitulo_links"><a title="Alimenta&ccedil;&atilde;o Canina" href="http://portaldodog.com.br/cachorros/category/alimentacao/">Alimenta&ccedil;&atilde;o</a></span> 
+       <span class="subtitulo_links"><a title="Exerc&iacute;cios para cachorro" href="http://portaldodog.com.br/cachorros/category/exercicios-diversao/">Exerc&iacute;cios e Divers&atilde;o</a></span>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div> 
+       <span class="titulo_cat_submenu cat_saude"><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Ver todos os posts em Sa&uacute;de" rel="category tag">Sa&uacute;de</a></span> 
+       <span class="subtitulo_not"><a title="Pulgas em cachorros" href="http://portaldodog.com.br/cachorros/saude/pulgas-em-cachorros/">Pulgas em cachorros</a></span> 
+       <span class="titulo_cat_submenu cat_alimentacao"><a href="http://portaldodog.com.br/cachorros/category/alimentacao/" title="Ver todos os posts em Alimenta&ccedil;&atilde;o" rel="category tag">Alimenta&ccedil;&atilde;o</a></span> 
+       <span class="subtitulo_not"><a title="Posso dar osso ao meu cachorro?" href="http://portaldodog.com.br/cachorros/alimentacao/posso-dar-osso-ao-meu-cachorro/">Posso dar osso ao meu cachorro?</a></span> 
+       <span class="titulo_cat_submenu cat_saude"><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Ver todos os posts em Sa&uacute;de" rel="category tag">Sa&uacute;de</a></span> 
+       <span class="subtitulo_not"><a title="Como limpar a orelha do cachorro" href="http://portaldodog.com.br/cachorros/saude/como-limpar-a-orelha-do-cachorro/">Como limpar a orelha do cachorro</a></span> 
+       <span class="titulo_cat_submenu cat_alimentacao"><a href="http://portaldodog.com.br/cachorros/category/alimentacao/" title="Ver todos os posts em Alimenta&ccedil;&atilde;o" rel="category tag">Alimenta&ccedil;&atilde;o</a></span> 
+       <span class="subtitulo_not"><a title="Gr&aacute;fico com alimentos permitidos e proibidos para c&atilde;es" href="http://portaldodog.com.br/cachorros/alimentacao/grafico-com-alimentos-permitidos-e-proibidos-para-caes/">Gr&aacute;fico com alimentos permitidos e proibidos para c&atilde;es</a></span>
+      </div>
+      <div class="trescolunas ultimo"> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_alimentacao"><a href="http://portaldodog.com.br/cachorros/category/alimentacao/" title="Ver todos os posts em Alimenta&ccedil;&atilde;o" rel="category tag">Alimenta&ccedil;&atilde;o</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/alimentacao/como-escolher-o-pote-correto-para-o-seu-cachorro/" title="Como escolher o pote correto para o seu cachorro"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/escolha-potes-cachorro-350x142.jpg" class="img-submenu saude-m colorbox-17205  wp-post-image" alt="escolha-potes-cachorro" /></a>
+       <h4 class="bem-submenu-h4"><a title="Como escolher o pote correto para o seu cachorro" href="http://portaldodog.com.br/cachorros/alimentacao/como-escolher-o-pote-correto-para-o-seu-cachorro/">Como escolher o pote correto para o seu cachorro</a></h4>
+      </div>
+     </div></li>
+    <li id="fot"><a class="principal fotos-menu" href="#">Fotos</a>
+     <div class="submenu fot">
+      <div class="trescolunas_primeira sub-fotos"> 
+       <span class="subtitulo_links primeiro-sub"><a title="Fotos de Cachorros" href="http://portaldodog.com.br/cachorros/category/fotos/">Fotos</a></span> 
+       <span class="subtitulo_links"><a title="Humor Canino" href="http://portaldodog.com.br/cachorros/category/humor/">Humor</a></span> 
+       <span class="subtitulo_links"><a title="Boas Ideias" href="http://portaldodog.com.br/cachorros/category/boas-ideias-para-cachorro/">Boas Ideias</a></span>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Cachorros torcedores de futebol" href="http://portaldodog.com.br/cachorros/fotos/cachorros-torcedores-de-futebol/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/1-cachorro-cruzeiro-100x60.jpg" class="img-raca-menu fotos-m colorbox-16883  wp-post-image" alt="1-cachorro-cruzeiro" /></a> 
+        <span class="subtitulo_fotos"><a title="Cachorros torcedores de futebol" href="http://portaldodog.com.br/cachorros/fotos/cachorros-torcedores-de-futebol/">Cachorros torcedores de futebol</a></span>
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Cachorros brincando de esconde-esconde" href="http://portaldodog.com.br/cachorros/fotos/cachorros-brincando-de-esconde-esconde/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorros-esconde-esconde-fotos-PortaldoDog-15-100x60.jpg" class="img-raca-menu fotos-m colorbox-16722  wp-post-image" alt="cachorros-esconde-esconde-fotos-PortaldoDog (15)" /></a> 
+        <span class="subtitulo_fotos"><a title="Cachorros brincando de esconde-esconde" href="http://portaldodog.com.br/cachorros/fotos/cachorros-brincando-de-esconde-esconde/">Cachorros brincando de esconde-esconde</a></span>
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Cachorros e seus cobertores" href="http://portaldodog.com.br/cachorros/fotos/cachorros-e-seus-cobertores/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorro-cobertor-16-100x60.jpg" class="img-raca-menu fotos-m colorbox-16541  wp-post-image" alt="cachorro-cobertor-16" /></a> 
+        <span class="subtitulo_fotos"><a title="Cachorros e seus cobertores" href="http://portaldodog.com.br/cachorros/fotos/cachorros-e-seus-cobertores/">Cachorros e seus cobertores</a></span>
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Cachorros mostrando a l&iacute;ngua" href="http://portaldodog.com.br/cachorros/fotos/cachorros-mostrando-lingua/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cao-pug-lingua-100x60.jpg" class="img-raca-menu fotos-m colorbox-16246  wp-post-image" alt="cao-pug-lingua" /></a> 
+        <span class="subtitulo_fotos"><a title="Cachorros mostrando a l&iacute;ngua" href="http://portaldodog.com.br/cachorros/fotos/cachorros-mostrando-lingua/">Cachorros mostrando a l&iacute;ngua</a></span>
+       </div>
+      </div>
+      <div class="trescolunas ultimo"> 
+       <a href="http://portaldodog.com.br/cachorros/fotos/cachorros-sujos/" title="Cachorros sujos"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorros-sujos-fotos-PortaldoDog-1-350x142.jpg" class="img-submenu fotos-m colorbox-17202  wp-post-image" alt="cachorros-sujos-fotos-PortaldoDog  (1)" /></a>
+       <h4 class="fot-submenu-h4"><a title="Cachorros sujos" href="http://portaldodog.com.br/cachorros/fotos/cachorros-sujos/">Cachorros sujos</a></h4>
+      </div>
+     </div></li>
+    <li id="vid"><a class="principal videos-menu" href="#">V&iacute;deos</a>
+     <div class="submenu vid">
+      <div class="trescolunas_primeira sub-videos"> 
+       <span class="subtitulo_links primeiro-sub"><a title="V&iacute;deos Gerais" href="http://portaldodog.com.br/cachorros/category/videos/geralv/">Geral</a></span> 
+       <span class="subtitulo_links"><a title="V&iacute;deos Engra&ccedil;ados de Cachorros" href="http://portaldodog.com.br/cachorros/category/videos/videosengracados/">Engra&ccedil;ados</a></span> 
+       <span class="subtitulo_links"><a title="V&iacute;deos Propagandas com Cachorros" href="http://portaldodog.com.br/cachorros/category/videos/propagandas/">Propagandas</a></span> 
+       <span class="subtitulo_links"><a title="V&iacute;deos Ra&ccedil;as de Cachorro" href="http://portaldodog.com.br/cachorros/videos-das-racas/">Ra&ccedil;as</a></span>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="C&atilde;ozinho limpa as patas ao entrar em casa" href="http://portaldodog.com.br/cachorros/videos/videosengracados/caozinho-limpa-patas-ao-entrar-em-casa/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/caozinho-limpa-patas-ao-entrar-em-casa-100x60.jpg" class="img-raca-menu vid-m colorbox-17122  wp-post-image" alt="C&atilde;ozinho limpa as patas ao entrar em casa" /></a> 
+        <span class="subtitulo_videos"><a title="C&atilde;ozinho limpa as patas ao entrar em casa" href="http://portaldodog.com.br/cachorros/videos/videosengracados/caozinho-limpa-patas-ao-entrar-em-casa/">C&atilde;ozinho limpa as patas ao entrar em casa</a></span>
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Rottweiler com solu&ccedil;o" href="http://portaldodog.com.br/cachorros/videos/geralv/rottweiler-com-soluco/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/rottweiler-com-soluco-100x60.jpg" class="img-raca-menu vid-m colorbox-16998  wp-post-image" alt="Rottweiler com solu&ccedil;o" /></a> 
+        <span class="subtitulo_videos"><a title="Rottweiler com solu&ccedil;o" href="http://portaldodog.com.br/cachorros/videos/geralv/rottweiler-com-soluco/">Rottweiler com solu&ccedil;o</a></span>
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Romeo e o seu secador" href="http://portaldodog.com.br/cachorros/videos/videosengracados/romeo-e-o-seu-secador/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/romeo-e-o-seu-secador-100x60.jpg" class="img-raca-menu vid-m colorbox-16995  wp-post-image" alt="Romeo e o seu secador" /></a> 
+        <span class="subtitulo_videos"><a title="Romeo e o seu secador" href="http://portaldodog.com.br/cachorros/videos/videosengracados/romeo-e-o-seu-secador/">Romeo e o seu secador</a></span>
+       </div>
+       <div class="fotos-videos-menu"> 
+        <a title="Filhote de Yorkshire brincando com um Bull Terrier" href="http://portaldodog.com.br/cachorros/videos/videosengracados/filhote-de-yorkshire-brincando-com-um-bull-terrier/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/filhote-de-yorkshire-brincando-com-um-bull-terrier-100x60.jpg" class="img-raca-menu vid-m colorbox-16874  wp-post-image" alt="Filhote de Yorkshire brincando com um Bull Terrier" /></a> 
+        <span class="subtitulo_videos"><a title="Filhote de Yorkshire brincando com um Bull Terrier" href="http://portaldodog.com.br/cachorros/videos/videosengracados/filhote-de-yorkshire-brincando-com-um-bull-terrier/">Filhote de Yorkshire brincando com um Bull Terrier</a></span>
+       </div>
+      </div>
+      <div class="trescolunas ultimo"> 
+       <a href="http://portaldodog.com.br/cachorros/videos/geralv/golden-retriever-brincando-com-coelho/" title="Golden Retriever brincando com coelho"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/golden-retriever-brincando-com-coelho-350x142.jpg" class="img-submenu vid-m colorbox-17208  wp-post-image" alt="Golden Retriever brincando com coelho" /></a>
+       <h4 class="vid-submenu-h4"><a title="Golden Retriever brincando com coelho" href="http://portaldodog.com.br/cachorros/videos/geralv/golden-retriever-brincando-com-coelho/">Golden Retriever brincando com coelho</a></h4>
+      </div>
+     </div></li>
+    <li id="esp"><a class="principal col-menu" href="#">Colunistas</a>
+     <div class="submenu colu">
+      <div class="trescolunas_primeira sub-col"> 
+       <span class="subtitulo_links primeiro-sub"><a title="Emeline Livero" href="http://portaldodog.com.br/cachorros/category/colunistas/emeline_livero/">Emeline Livero</a></span> 
+       <span class="subtitulo_links"><a title="Islene Lima Verde" href="http://portaldodog.com.br/cachorros/category/colunistas/islene_lima_verde/">Dra. Islene Lima Verde</a></span> 
+       <span class="subtitulo_links"><a title="Olivier Soulier" href="http://portaldodog.com.br/cachorros/category/colunistas/olivier_soulier/">Olivier Soulier</a></span>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div> 
+       <span class="titulo_cat_submenu cat_colunistas"><a href="http://portaldodog.com.br/cachorros/category/colunistas/emeline_livero/" title="Ver todos os posts em Emeline Livero" rel="category tag">Emeline Livero</a></span> 
+       <span class="subtitulo_not"><a title="Voc&ecirc; adora usar roupinhas em seu c&atilde;o? Seria uma necessidade ou um exagero?" href="http://portaldodog.com.br/cachorros/colunistas/emeline_livero/voce-adora-usar-roupinhas-em-seu-cao-seria-uma-necessidade-ou-um-exagero/">Voc&ecirc; adora usar roupinhas em seu c&atilde;o? Seria uma necessidade ou um exagero?</a></span> 
+       <span class="titulo_cat_submenu cat_colunistas"><a href="http://portaldodog.com.br/cachorros/category/colunistas/emeline_livero/" title="Ver todos os posts em Emeline Livero" rel="category tag">Emeline Livero</a></span> 
+       <span class="subtitulo_not"><a title="Eleg&acirc;ncia e estilo para seu animal de estima&ccedil;&atilde;o" href="http://portaldodog.com.br/cachorros/colunistas/emeline_livero/elegancia-e-estilo-para-seu-animal-de-estimacao/">Eleg&acirc;ncia e estilo para seu animal de estima&ccedil;&atilde;o</a></span> 
+       <span class="titulo_cat_submenu cat_colunistas"><a href="http://portaldodog.com.br/cachorros/category/colunistas/olivier_soulier/" title="Ver todos os posts em Olivier Soulier" rel="category tag">Olivier Soulier</a></span> 
+       <span class="subtitulo_not"><a title="WEB TV EAOS – Como tratar e evitar a infesta&ccedil;&atilde;o de carrapatos" href="http://portaldodog.com.br/cachorros/colunistas/olivier_soulier/web-tv-eaos-como-tratar-e-evitar-a-infestacao-de-carrapatos/">WEB TV EAOS – Como tratar e evitar a infesta&ccedil;&atilde;o de carrapatos</a></span> 
+       <span class="titulo_cat_submenu cat_colunistas"><a href="http://portaldodog.com.br/cachorros/category/colunistas/olivier_soulier/" title="Ver todos os posts em Olivier Soulier" rel="category tag">Olivier Soulier</a></span> 
+       <span class="subtitulo_not"><a title="O seu xod&oacute; acabou de chegar ou est&aacute; chegando &agrave; sua casa, ao seu apartamento e voc&ecirc; n&atilde;o preparou nada?" href="http://portaldodog.com.br/cachorros/colunistas/olivier_soulier/o-seu-xodo-acabou-de-chegar-ou-esta-chegando-a-sua-casa-ao-seu-apartamento-e-voce-nao-preparou-nada/">O seu xod&oacute; acabou de chegar ou est&aacute; chegando &agrave; sua casa, ao seu apartamento e voc&ecirc; n&atilde;o preparou nada?</a></span>
+      </div>
+      <div class="trescolunas ultimo">
+       <div class="titulo-ultimas">
+        COLUNISTAS
+       </div>
+       <div class="colunistas-menu"> 
+        <a href="http://portaldodog.com.br/cachorros/colunistas/olivier_soulier/web-tv-eaos-como-tratar-e-evitar-a-infestacao-de-carrapatos/" title="Adestrador Olivier Soulier"><img title="Adestrador Olivier Soulier" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/2_col_vet_olivier_soulier.png" height="85" /></a> 
+        <a href="http://portaldodog.com.br/cachorros/category/colunistas/olivier_soulier/" title="Colunista Adestrador Olivier Soulier">
+         <div class="colu_titulo_menu">
+          Olivier Soulier
+         </div></a>
+        <div class="texto-col">
+         Comportamentalista canino com mais de 30 anos de experi&ecirc;ncia e muita bagagem.
+        </div>
+       </div>
+       <div class="colunistas-menu"> 
+        <a href="http://portaldodog.com.br/cachorros/colunistas/islene_lima_verde/cada-pe-com-o-seu-sapato/" title="Veterin&aacute;ria Islene Lima Verde"><img title="Veterin&aacute;ria Islene Lima Verde" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/2_col_vet_islene_lima_verde.png" height="85" /></a> 
+        <a href="http://portaldodog.com.br/cachorros/category/colunistas/islene_lima_verde/" title="Colunista Islene Lima Verde">
+         <div class="colu_titulo_menu">
+          Islene Lima Verde
+         </div></a>
+        <div class="texto-col">
+         M&eacute;dica Veterin&aacute;ria com interesse especial em nefrologia e urologia veterin&aacute;ria.
+        </div>
+       </div>
+       <div class="colunistas-menu"> 
+        <a href="http://portaldodog.com.br/cachorros/colunistas/emeline_livero/voce-adora-usar-roupinhas-em-seu-cao-seria-uma-necessidade-ou-um-exagero/" title="Emeline Livero"><img title="Emeline Livero" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/2_col_vet_emeline_livero.png" height="85" /></a> 
+        <a href="http://portaldodog.com.br/cachorros/category/colunistas/emeline_livero/" title="Emeline Livero">
+         <div class="colu_titulo_menu">
+          Emeline Livero
+         </div></a>
+        <div class="texto-col">
+         Personal Stylist especializada em Consultoria de Imagem Pessoal e Imagem Corporativa.
+        </div>
+       </div>
+      </div>
+     </div></li>
+    <li id="conv"><a class="principal conv-menu" href="#">Conviv&ecirc;ncia</a>
+     <div class="submenu conv">
+      <div class="trescolunas_primeira">
+       <div class="conviv-menu conv-primeiro">
+        <a title="Filhotes Cachorros" href="http://portaldodog.com.br/cachorros/category/convivencia/filhotes/"><img title="Filhotes Cachorro" alt="filhotes cachorro" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/conv_filhotes.png" width="40" height="39" /></a>
+        <div class="texto_conv-menu">
+         <h5><a title="Filhotes de Cachorro" href="http://portaldodog.com.br/cachorros/category/convivencia/filhotes/">Filhotes</a></h5>
+        </div>
+       </div>
+       <div class="conviv-menu">
+        <a title="Cachorros Adultos" href="http://portaldodog.com.br/cachorros/category/convivencia/adultos/"><img title="Cachorros Adultos" alt="cachorros adultos" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/conv_adultos.png" width="40" height="39" /></a>
+        <div class="texto_conv-menu">
+         <h5><a title="Cachorros Adultos" href="http://portaldodog.com.br/cachorros/category/convivencia/adultos/">Adultos</a></h5>
+        </div>
+       </div>
+       <div class="conviv-menu">
+        <a title="Cachorros Idosos" href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/"><img title="Cachorros Idosos" alt="cachorros idosos" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/conv_idosos.png" width="40" height="39" /></a>
+        <div class="texto_conv-menu">
+         <h5><a title="Cachorros Idosos" href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/">Idosos</a></h5>
+        </div>
+       </div>
+       <div class="conviv-menu">
+        <a title="Viagem com Cachorros" href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/"><img title="Viajar com pet" alt="viajar com pet" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/conv_viagem.png" width="40" height="39" /></a>
+        <div class="texto_conv-menu">
+         <h5><a title="Viagem com Cachorros" href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/">Viagem</a></h5>
+        </div>
+       </div>
+       <div class="conviv-menu">
+        <a title="Adestramento de Cachorro" href="http://portaldodog.com.br/cachorros/category/convivencia/adestramento/"><img title="Adestramento de Cachorro" alt="adestramento cachorro" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/conv_adestramento.png" width="40" height="39" /></a>
+        <div class="texto_conv-menu">
+         <h5><a title="Adestramento de Cachorro" href="http://portaldodog.com.br/cachorros/category/convivencia/adestramento/">Adestramento</a></h5>
+        </div>
+       </div>
+      </div>
+      <div class="trescolunas">
+       <div class="titulo-ultimas">
+        &Uacute;LTIMAS
+       </div> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a> - <a href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <span class="subtitulo_not"><a title="TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud" href="http://portaldodog.com.br/cachorros/noticias/tam-e-o-transporte-de-pet-leia-sobre-o-caso-da-nossa-leitora-simone-coulaud/">TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <span class="subtitulo_not"><a title="Vai viajar com seu c&atilde;o de carro? Cuidados que podem evitar enj&ocirc;os" href="http://portaldodog.com.br/cachorros/convivencia/viagem/vai-viajar-com-seu-cao-de-carro-cuidados-que-podem-evitar-enjoos/">Vai viajar com seu c&atilde;o de carro? Cuidados que podem evitar enj&ocirc;os</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/" title="Ver todos os posts em Idosos" rel="category tag">Idosos</a></span> 
+       <span class="subtitulo_not"><a title="Cuidados com c&atilde;es idosos" href="http://portaldodog.com.br/cachorros/convivencia/idosos/cuidados-com-caes-idosos/">Cuidados com c&atilde;es idosos</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/" title="Ver todos os posts em Idosos" rel="category tag">Idosos</a></span> 
+       <span class="subtitulo_not"><a title="S&iacute;ndrome da Disfun&ccedil;&atilde;o Cognitiva em c&atilde;es idosos (SDC)" href="http://portaldodog.com.br/cachorros/convivencia/idosos/sindrome-da-disfuncao-cognitiva-em-caes-idosos-sdc/">S&iacute;ndrome da Disfun&ccedil;&atilde;o Cognitiva em c&atilde;es idosos (SDC)</a></span>
+      </div>
+      <div class="trescolunas ultimo"> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_filhotes"><a href="http://portaldodog.com.br/cachorros/category/convivencia/filhotes/" title="Ver todos os posts em Filhotes" rel="category tag">Filhotes</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/convivencia/filhotes/filhotes-caninos-e-o-leite-materno/" title="Filhotes caninos e o leite materno."><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/03/filhote-cachorro-amamentando-leite-350x142.jpg" class="img-submenu convivencia-m colorbox-10841  wp-post-image" alt="Filhotes caninos e o leite materno" /></a>
+       <h4 class="fot-submenu-h4"><a title="Filhotes caninos e o leite materno." href="http://portaldodog.com.br/cachorros/convivencia/filhotes/filhotes-caninos-e-o-leite-materno/">Filhotes caninos e o leite materno.</a></h4>
+      </div>
+     </div></li>
+    <li id="port"><a class="principal conv-menu" href="#">+ Portal</a>
+     <div class="submenu port">
+      <div class="trescolunas_primeira sub-noticia"> 
+       <span class="subtitulo_links primeiro-sub"><a href="http://portaldodog.com.br/cachorros/portal-do-dog/" title="Informa&ccedil;&otilde;es Portal do Dog">Portal do Dog</a></span> 
+       <span class="subtitulo_links"><a href="http://portaldodog.com.br/cachorros/anuncie/" title="Anuncie">Anuncie</a></span> 
+       <span class="subtitulo_links"><a href="http://portaldodog.com.br/cachorros/fale-conosco/" title="Fale com o Portal do Dog">Fale Conosco</a></span> 
+       <span class="subtitulo_links"><a href="http://portaldodog.com.br/cachorros/termos-de-uso/" title="Termos de Uso">Termos de Uso</a></span>
+      </div>
+      <div class="trescolunas"></div>
+      <div class="trescolunas ultimo"></div>
+     </div></li>
+    <li style="border:none; float:right; margin-top:6px;"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fportaldodog&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;font=trebuchet+ms&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=349422398472528" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe></li> 
+    <br clear="all" />
+   </ul> 
+  </nav>
+  <div id="banner-abaixo-menu">
+   <div id="b-fechado">
+    <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/redes/bannerpipi-01.jpg" />
+   </div>
+   <div style="display:none;" id="b-aberto">
+    <a target="_blank" href="http://goo.gl/55fVu2?utm_source=Banner+Pipi+Portal&amp;utm_medium=Banner&amp;utm_content=Banner+Topo+Pipi&amp;utm_campaign=Banner+Topo+Pipi"><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/redes/bannerpipi-02.jpg" /></a>
+    <div id="btn-fechar">
+     <img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/redes/btn-fechar.png" />
+    </div>
+    <div id="v-pipi"></div>
+   </div>
+  </div>
+  <script type="text/javascript">/*<![CDATA[*/jQuery.noConflict();jQuery(document).ready(function($){$('#b-fechado').click(function(){$('#b-fechado').stop().hide();$('#b-aberto').stop().slideDown();$('#v-pipi').html('<iframe width="373" height="280" src="http://portaldodog.com.br/pipi.html" frameborder="0"></iframe>');});$('#btn-fechar').click(function(){$('#b-aberto').stop().slideUp();$('#b-fechado').stop().slideDown(600);$('#v-pipi').html('');});});/*]]>*/</script>
+  <style>#banner-abaixo-menu{clear:both;cursor:pointer;width:1140px;margin:0 auto;margin-top:10px}#b-aberto{position:relative}#btn-fechar{position:absolute;top:3px;right:3px}#v-pipi{width:373px;height:280px;position:absolute;top:10px;right:75px;overflow:hidden}#port:hover{background:#7b47c8}#port .port{height:0;display:none;opacity:0}#port:hover .port{height:340px;display:block;opacity:1}.port{border-bottom:2px solid #7b47c8}</style>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/js/jquery.jcarousel.min.js"></script>
+  <script>jQuery(document).ready(function(){jQuery('#mycarousel').jcarousel({visible:4,scroll:4});});</script>
+  <style>li.raca_destaques img{border:none}</style>
+  <div id="conteudo" role="main">
+   <div id="raca">
+    <div id="raca_titulo">
+     <h1 class="entry-title">Affenpinscher</h1>
+    </div>
+    <div id="redes_sociais"> 
+     <span class="st_facebook_hcount" st_title="Affenpinscher" st_url="http://portaldodog.com.br/cachorros/racas/affenpinscher/" displaytext="Compartilhar"></span> 
+     <span class="st_twitter_hcount" st_title="Affenpinscher" st_url="http://portaldodog.com.br/cachorros/racas/affenpinscher/" displaytext="share"></span> 
+     <span class="st_email_hcount" st_title="Affenpinscher" st_url="http://portaldodog.com.br/cachorros/racas/affenpinscher/" displaytext="share"></span> 
+     <span class="st_plusone_hcount" st_title="Affenpinscher" st_url="http://portaldodog.com.br/cachorros/racas/affenpinscher/" displaytext="share"></span> 
+     <span class="st_fblike_hcount" st_title="Affenpinscher" st_url="http://portaldodog.com.br/cachorros/racas/affenpinscher/" displaytext="share"></span> 
+     <br clear="all" />
+    </div>
+    <h2 class="foto-raca">Fotos do Affenpinscher</h2>
+    <p><script type="text/javascript">function startGallery_180(){var myGallery=new gallery($("myGallery_180"),{timed:false,showCarousel:true,showInfopane:false,showArrows:true,embedLinks:false,slideInfoZoneOpacity:0.80,textShowCarousel:"Mais Imagens"});document.getElementById("myGallery_180").style.display="block";}
+window.addEvent("domready",startGallery_180);</script></p>
+    <div style="width: 775px; height: 320px; border:0px solid; margin:0px auto; clear:both;">
+     <div id="myGallery_180" class="myGallery" style="display:none; width: 775px !important; height: 320px !important;">
+      <div class="imageElement">
+       <h3> affenpinscher</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-6</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-6.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-6.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-6.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-filhote_0</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-filhote_0.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-filhote_0.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-filhote_0.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-5</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-5.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-5.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-5.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-4</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-4.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-4.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-4.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-3</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-3.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-3.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-3.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-1</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-1.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-1.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-1.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-2</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-2.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-2.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-2.jpg" class="thumbnail colorbox-1017" />
+      </div>
+      <div class="imageElement">
+       <h3> affenpinscher-filhote</h3>
+       <p style="color: #FFF000;"></p> 
+       <a target="_blank" href="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-filhote.jpg" title="open image" class="open"></a> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/affenpinscher-filhote.jpg" class="full colorbox-1017" /> 
+       <img src="http://portaldodog.com.br/cachorros/wp-content/gallery/affenpinscher/thumbs/thumbs_affenpinscher-filhote.jpg" class="thumbnail colorbox-1017" />
+      </div>
+     </div>
+    </div>
+    <p></p>
+    <div id="accordion-raca">
+     <h2>Informa&ccedil;&otilde;es gerais do Affenpinscher</h2>
+     <div class="acc_pag">
+      <li class="raca_destaques">
+       <div id="dados_raca">
+        <div class="nome_cientifico">
+         <h3>Affenpinscher (Grifo Macaco)</h3>
+        </div>
+        <div class="cat_racas">
+         TAMANHO
+        </div>
+        <div class="dado">
+         Macho: De 25 a 30 cm.
+        </div>
+        <div class="dado">
+         F&ecirc;mea: De 25 a 30 cm.
+        </div>
+        <div class="cat_racas">
+         PESO
+        </div>
+        <div class="dado">
+         Macho: De 4 a 6 kg.
+        </div>
+        <div class="dado">
+         F&ecirc;mea: De 4 a 6 kg.
+        </div>
+        <div class="cat_racas">
+         PERFIL
+        </div>
+        <div class="dado">
+         Esse pequeno c&atilde;o hirsuto, de trote muito curto e de grandes olhos redondos, tem uma express&atilde;o semiesca caracter&iacute;stica.
+        </div>
+        <div class="cat_racas">
+         TEMPERAMENTO
+        </div>
+        <div class="dado">
+         &Eacute; um c&atilde;o de companhia charmoso, vivo e inteligente.
+        </div>
+       </div>
+       <div id="descricao_raca">
+        Grata mistura de exuber&acirc;ncia e de sabedoria, esse pequeno animal de companhia, brincalh&atilde;o e din&acirc;mico, adora se fazer de palha&ccedil;o. &Eacute; tamb&eacute;m obediente e calmo, quando necess&aacute;rio.O Affenpinscher est&aacute; perfeitamente adaptado &agrave; vida em apartamentos, e cuidar de seu pelo &eacute; f&aacute;cil.Seu apego ao lar, seu arrojo e vigil&acirc;ncia fazem dele excelente guarda. &Eacute; tamb&eacute;m bom ca&ccedil;ador de roedores. Em concursos, um comportamento medroso ou agressivo provoca desqualifica&ccedil;&atilde;o.
+       </div></li>
+     </div>
+     <h2>Caracter&iacute;sticas do Affenpinscher</h2>
+     <div class="acc_pag">
+      <li class="raca_destaques">
+       <div id="caracteristicas_raca">
+        <ul>
+         <li><b>N&iacute;vel de energia : </b><span class="car_dados">Alto</span></li>
+         <li><b>Exerc&iacute;cio : </b><span class="car_dados">Moderado</span></li>
+         <li><b>Brincalh&atilde;o : </b><span class="car_dados">Muito brincalh&atilde;o</span></li>
+         <li><b>N&iacute;vel de afei&ccedil;&atilde;o : </b><span class="car_dados">Muito apegado</span></li>
+         <li><b>Amig&aacute;vel com outros cachorros : </b><span class="car_dados">Amig&aacute;vel</span></li>
+         <li><b>Amig&aacute;vel com outros animais de estima&ccedil;&atilde;o : </b><span class="car_dados">Amig&aacute;vel</span></li>
+         <li><b>Amig&aacute;vel com estranhos : </b><span class="car_dados">Amig&aacute;vel</span></li>
+         <li><b>F&aacute;cil de Treinar : </b><span class="car_dados">F&aacute;cil</span></li>
+         <li><b>C&atilde;o de Guarda : </b><span class="car_dados">Sim</span></li>
+         <li><b>Habilidade de prote&ccedil;&atilde;o : </b><span class="car_dados">N&atilde;o muito protetor</span></li>
+         <li><b>Cuidados com a apar&ecirc;ncia : </b><span class="car_dados">Frequentes</span></li>
+         <li><b>Toler&acirc;ncia ao frio : </b><span class="car_dados">Baixa toler&acirc;ncia</span></li>
+         <li><b>Toler&acirc;ncia ao calor : </b><span class="car_dados">M&eacute;dia toler&acirc;ncia</span></li>
+        </ul>
+        <br clear="all" />
+       </div></li>
+     </div>
+     <h2>Sa&uacute;de do Affenpinscher</h2>
+     <div class="acc_pag">
+      <li class="raca_destaques">
+       <div class="dado">
+        Apesar de ser um cachorro energ&eacute;tico, a quantidade de exerc&iacute;cio para suprir o Affenpinscher &eacute; pequena. Adora brincar no quintal, mas n&atilde;o pode viver fora de casa. Sua pelagem precisa de cuidados de duas a tr&ecirc;s vezes semanalmente.Expectativa de vida: 12 a 14 anos.
+       </div></li>
+     </div>
+     <h2>Origem do Affenpinscher</h2>
+     <div class="acc_pag">
+      <li class="raca_destaques">
+       <div class="dado">
+        C&atilde;o de companhia bastante representado em quadros de Albrecht Durer (1471-1528), o Affenpinscher nasceu na Alemanha. Sua ligeira semelhan&ccedil;a com um macaco deu-lhe o nome (Affe significa macaco, em alem&atilde;o) e fez que fosse por vezes chamado de Grifo Macaco. Oriundo da fam&iacute;lia dos Pinschers e Schnauzers, ele &eacute; aparentado aos Grifos Belgas, que descendem parcialmente dessa fam&iacute;lia.
+       </div></li>
+     </div>
+    </div>
+   </div>
+   <div id="racas_sidebar">
+    <div id="pesquisar">
+     <form action="http://portaldodog.com.br/cachorros/pesquisa/" id="cse-search-box">
+      <div> 
+       <input type="hidden" name="cx" value="partner-pub-0780360857271349:9086579955" /> 
+       <input type="hidden" name="cof" value="FORID:10" /> 
+       <input type="hidden" name="ie" value="UTF-8" /> 
+       <input type="text" name="q" size="25" autocomplete="on" placeholder="O que voc&ecirc; procura?" /> 
+       <input type="submit" name="sa" value="" class="botao_pesquisa_single" />
+      </div>
+     </form>
+    </div>
+    <div id="racas_tipos">
+     <div class="title_racas">
+      <a href="#" title="ra&ccedil;as de cachorros">NAVEGUE NAS RA&Ccedil;AS</a>
+     </div>
+     <div class="ordem">
+      <a href="http://portaldodog.com.br/cachorros/racas-de-cachorros/a/" title="Ra&ccedil;as de Cachorros de A a Z">ORDEM ALFABETICA</a>
+     </div>
+     <div class="grupo">
+      GRUPO AKC
+     </div>
+     <ul>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-trabalho.png" title="Grupo de Trabalho" alt="grupo de trabalho" /><a title="Grupo de Trabalho - Ra&ccedil;as cachorros" href="http://portaldodog.com.br/cachorros/category/racas/trabalho/">Grupo de Trabalho</a></li>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-terrier.png" title="Grupo Terrier" alt="grupo terrier" /><a title="Grupo Terrier" href="http://portaldodog.com.br/cachorros/category/racas/terrier/" class="terrier">Grupo de Terrier</a></li>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-toy.png" title="Grupo Toy" alt="grupo toy" /><a title="Grupo Toy" href="http://portaldodog.com.br/cachorros/category/racas/toy/" class="toy">Grupo Toy</a></li>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-esportivo.png" title="Grupo Esportivo" alt="grupo esportivo" /><a title="Grupo Esportivo" href="http://portaldodog.com.br/cachorros/category/racas/esportistas/" class="esportistas">Esportistas</a></li>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-nao-desportista.png" title="Grupo N&atilde;o Desportivos" alt="grupo n&atilde;o desportivos " /><a title="Grupo N&atilde;o Desportivos" href="http://portaldodog.com.br/cachorros/category/racas/naodesportivos/" class="ndesportivo">N&atilde;o Desportivos</a></li>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-hound.png" title="Grupo Hound" /><a title="Grupo Hound" href="http://portaldodog.com.br/cachorros/category/racas/hound/" class="hound">Grupo Hound</a></li>
+      <li><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/raca-cachorro-pastoeiro.png" title="Grupo Pastoeiro" alt="grupo pastoeiro" /><a title="Grupo Pastoeiro" href="http://portaldodog.com.br/cachorros/category/racas/pastoreio/" class="pastoeiro">Grupo Pastoreio</a></li>
+     </ul>
+    </div>
+    <div id="raca_dia" class="raca-int">
+     <a href="http://portaldodog.com.br/cachorros/racas/spinone-italiano"><img width="350" height="220" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/Spinone_Italiano_raca_portal_dog-2-350x220.jpg" class="attachment-raca_dia_index colorbox-1017  wp-post-image" alt="Spinone_Italiano_raca_portal_dog (2)" /></a>
+     <div id="raca_do_dia">
+      <span style="font-size:18px;"><a href="http://portaldodog.com.br/cachorros/racas/spinone-italiano">Spinone Italiano</a></span>
+      <br />
+      <span style="display:block; margin-top:10px;">C&atilde;o compacto, musculoso e forte, de roupagem semelhante &agrave; do Grifo.</span>
+     </div>
+    </div>
+    <div id="facebook">
+     <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fportaldodog&amp;width=330&amp;height=308&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;appId=389909181058741" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:330px; height:308px;" allowtransparency="true"></iframe>
+    </div>
+    <div class="widget_twitter">
+     <div>
+      <h2><span class="twitterwidget twitterwidget-title">@PortaldoDog</span></h2>
+      <div class="twitter-avatar">
+       <a href="http://twitter.com/PortaldoDog" title="Portal do Dog" target="_blank"><img alt="Portal do Dog" src="https://pbs.twimg.com/profile_images/2391800623/twitter_pdd_tn_normal.jpg" /></a>
+      </div>
+      <ul>
+       <li><span class="entry-content">Omelette <a href="http://t.co/NUdbZDp17I" target="_blank">http://t.co/NUdbZDp17I</a> <a href="http://twitter.com/search?q=%23Geral" class="twitter-hashtag" target="_blank">#Geral</a></span> <span class="entry-meta"><span class="time-meta"><a href="http://twitter.com/PortaldoDog/statuses/389041179205328896" target="_blank">12:53 12 outubro, 2013</a></span></span></li>
+       <li><span class="entry-content">Comedouros/bebedouros embutidos em ilha na cozinha <a href="http://t.co/gOT25r15fw" target="_blank">http://t.co/gOT25r15fw</a> <a href="http://twitter.com/search?q=%23Boasideiasparacachorro" class="twitter-hashtag" target="_blank">#Boasideiasparacachorro</a></span> <span class="entry-meta"><span class="time-meta"><a href="http://twitter.com/PortaldoDog/statuses/389026050141077505" target="_blank">11:53 12 outubro, 2013</a></span></span></li>
+       <li><span class="entry-content">Roupa especial permite que cadela alimente duas cabras <a href="http://t.co/nORafbQu5D" target="_blank">http://t.co/nORafbQu5D</a> <a href="http://twitter.com/search?q=%23Not%C3%ADcias" class="twitter-hashtag" target="_blank">#Not&iacute;cias</a></span> <span class="entry-meta"><span class="time-meta"><a href="http://twitter.com/PortaldoDog/statuses/389010945257000960" target="_blank">10:53 12 outubro, 2013</a></span></span></li>
+       <li><span class="entry-content">Chihuahua praticando Yoga <a href="http://t.co/rsdf420CY6" target="_blank">http://t.co/rsdf420CY6</a> <a href="http://twitter.com/search?q=%23V%C3%ADdeosEngra%C3%A7ados" class="twitter-hashtag" target="_blank">#V&iacute;deosEngra&ccedil;ados</a></span> <span class="entry-meta"><span class="time-meta"><a href="http://twitter.com/PortaldoDog/statuses/388995839643119616" target="_blank">09:53 12 outubro, 2013</a></span></span></li>
+       <li><span class="entry-content">Mesa de canto e cantinho canino <a href="http://t.co/Zt00IF5LdX" target="_blank">http://t.co/Zt00IF5LdX</a> <a href="http://twitter.com/search?q=%23Boasideiasparacachorro" class="twitter-hashtag" target="_blank">#Boasideiasparacachorro</a></span> <span class="entry-meta"><span class="time-meta"><a href="http://twitter.com/PortaldoDog/statuses/388980734566080512" target="_blank">08:53 12 outubro, 2013</a></span></span></li>
+      </ul>
+     </div>
+    </div>
+    <div class="termos_tags">
+     <div class="titulo_tags">
+      Termos mais procurados:
+     </div>
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="affenpinscher">affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="onde comprar affenpinscher (grifo macaco)">onde comprar affenpinscher (grifo macaco)</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="c&atilde;o affenpinscher">c&atilde;o affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="imagens affenpinscher">imagens affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="affenpinscher pre&ccedil;o">affenpinscher pre&ccedil;o</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Cachorros ra&ccedil;as affenpinscher">Cachorros ra&ccedil;as affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Quero comprar affenpinscher">Quero comprar affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="quanto e um cachorro Affenpinscher">quanto e um cachorro Affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="pre&ccedil;o do filhote ra&ccedil;a affenpinscher">pre&ccedil;o do filhote ra&ccedil;a affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="pre&ccedil;o affenpinscher (grifo macaco)">pre&ccedil;o affenpinscher (grifo macaco)</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="affenpinscher curiosidade">affenpinscher curiosidade</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="o que e mao semiesca?">o que e mao semiesca?</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="informa&ccedil;&otilde;es sobre c&atilde;o affenpinscher">informa&ccedil;&otilde;es sobre c&atilde;o affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Compro affempinscher">Compro affempinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="comprar cachorro affenpinscher">comprar cachorro affenpinscher</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="affenpinscher tamanho">affenpinscher tamanho</a></h3> •
+     <h3><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="ra&ccedil;a de cachorro pequenos affenpinscher">ra&ccedil;a de cachorro pequenos affenpinscher</a></h3> •
+    </div>
+    <div class="termos_tags"></div>
+   </div>
+   <div id="video_single">
+    <div class="titulo_video">
+     <h2>V&iacute;deos - Affenpinscher</h2>
+    </div>
+    <div class="tubepress_container" id="tubepress_gallery_813736801">
+     <div id="tubepress_gallery_813736801_thumbnail_area" class="tubepress_thumbnail_area">
+      <div class="tubepress_thumbs">
+       <div class="tubepress_thumb"> 
+        <a id="tubepress_image_ohnkNMFSnAc_813736801" rel="tubepress_youtube_fancybox_813736801"> <img class="colorbox-1017" alt="Dogs 101- Affenpinscher" src="http://i1.ytimg.com/vi/ohnkNMFSnAc/hqdefault.jpg" width="160" height="120" /> </a>
+        <dl class="tubepress_meta_group"></dl>
+       </div>
+       <div class="tubepress_thumb"> 
+        <a id="tubepress_image_tq_zP6Yg7xg_813736801" rel="tubepress_youtube_fancybox_813736801"> <img class="colorbox-1017" alt="Affenpinschers going crazy" src="http://i1.ytimg.com/vi/tq_zP6Yg7xg/hqdefault.jpg" width="160" height="120" /> </a>
+        <dl class="tubepress_meta_group"></dl>
+       </div>
+       <div class="tubepress_thumb"> 
+        <a id="tubepress_image_q2G-gS6IUns_813736801" rel="tubepress_youtube_fancybox_813736801"> <img class="colorbox-1017" alt="Affenpinscher puppies" src="http://i1.ytimg.com/vi/q2G-gS6IUns/hqdefault.jpg" width="160" height="120" /> </a>
+        <dl class="tubepress_meta_group"></dl>
+       </div>
+       <div class="tubepress_thumb"> 
+        <a id="tubepress_image_wH3NGF7DYYo_813736801" rel="tubepress_youtube_fancybox_813736801"> <img class="colorbox-1017" alt="Affenpinscher" src="http://i1.ytimg.com/vi/wH3NGF7DYYo/hqdefault.jpg" width="160" height="120" /> </a>
+        <dl class="tubepress_meta_group"></dl>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script type="text/javascript">TubePressGallery.init(813736801,{ajaxPagination:true,embeddedHeight:"350",embeddedWidth:"425",fluidThumbs:true,playerLocationName:"fancybox",shortcode:"%5Btubepress%20mode%3D%22playlist%22%2C%20playlistValue%3D%229CF84FE07A7FCB24%22%2C%20theme%3D%22youtube%22%2C%20playerLocation%3D%22fancybox%22%2C%20resultsPerPage%3D%224%22%2C%20title%3D%22%22%2C%20length%3D%22%22%2C%20views%3D%22%22%2C%20thumbHeight%3D%22120%22%2C%20thumbWidth%3D%22160%22%2C%20paginationAbove%3D%22%22%2C%20filter_racy%3D%22none%22%2C%20galleryId%3D%22813736801%22%2C%20sequence%3D%22%27ohnkNMFSnAc%27%2C%20%27tq_zP6Yg7xg%27%2C%20%27q2G-gS6IUns%27%2C%20%27wH3NGF7DYYo%27%22%5D",themeCSS:"",autoNext:true,sequence:['ohnkNMFSnAc','tq_zP6Yg7xg','q2G-gS6IUns','wH3NGF7DYYo']});</script>
+    <br clear="all" />
+   </div>
+   <div id="racas-relacionadas">
+    <div class="veja-tit">
+     <span>Ra&ccedil;as Relacionadas</span>
+    </div>
+    <ul id="mycarousel" class="jcarousel-skin-tango">
+     <li><a href="http://portaldodog.com.br/cachorros/racas/king-charles/" title="King Charles"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/king_charles_raca_portal_dog-13-175x135.jpg" class="attachment-not2 colorbox-602  wp-post-image" alt="king_charles_raca_portal_dog (13)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/king-charles/" title="King Charles">King Charles</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/silky-terrier/" title="Silky Terrier"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/silky_terrier_raca_portal_Dog-4-175x135.jpg" class="attachment-not2 colorbox-241  wp-post-image" alt="silky_terrier_raca_portal_Dog (4)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/silky-terrier/" title="Silky Terrier">Silky Terrier</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/toy-terrier/" title="Toy Terrier"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/Toy_terrier_raca_portal_do_dog-4-175x135.jpg" class="attachment-not2 colorbox-67  wp-post-image" alt="Toy_terrier_raca_portal_do_dog (4)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/toy-terrier/" title="Toy Terrier">Toy Terrier</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Affenpinscher"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/07/affenpinscher_racas_portaldodog-10-175x135.jpg" class="attachment-not2 colorbox-1017  wp-post-image" alt="affenpinscher_racas_portaldodog (10)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Affenpinscher">Affenpinscher</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/bichon-havanes/" title="Bichon Havan&ecirc;s"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/07/bichon_havanes_racas_portaldodog-2-175x135.jpg" class="attachment-not2 colorbox-969  wp-post-image" alt="bichon_havanes_racas_portaldodog (2)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/bichon-havanes/" title="Bichon Havan&ecirc;s">Bichon Havan&ecirc;s</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/bichon-maltes/" title="Bichon Malt&ecirc;s"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/06/bichon_maltes_racas_portaldodog-28-175x135.jpg" class="attachment-not2 colorbox-960  wp-post-image" alt="bichon_maltes_racas_portaldodog (28)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/bichon-maltes/" title="Bichon Malt&ecirc;s">Bichon Malt&ecirc;s</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/poodle/" title="Poodle"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/06/poodle_racas_portaldodog-10-175x135.jpg" class="attachment-not2 colorbox-895  wp-post-image" alt="poodle_racas_portaldodog (10)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/poodle/" title="Poodle">Poodle</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/racas/pug/" title="Pug"><img width="175" height="135" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/06/pug_racas_portaldodog-18-175x135.jpg" class="attachment-not2 colorbox-890  wp-post-image" alt="pug_racas_portaldodog (18)" /></a> <a href="http://portaldodog.com.br/cachorros/racas/pug/" title="Pug">Pug</a></li>
+    </ul>
+   </div>
+   <div id="redes-racas-footer">
+    <div id="redes-single">
+     <div id="compartilhe-single">
+      <li class="comp"><span>Compartilhe</span></li>
+      <li class="face"><a rel="nofollow" href="http://www.facebook.com/share.php?u=http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Compartilhe esse post no Facebook" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=360,width=600');return false;"><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/novas/rede-facebook.png" /></a></li>
+      <li class="tweet"><a rel="nofollow" href="http://twitter.com/home?status=Affenpinscher+http://portaldodog.com.br/cachorros/racas/affenpinscher/" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=260,width=600');return false;" title="Compartilhe esse post no Twitter"><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/novas/rede-twitter.png" /></a></li>
+      <li class="goo"><a href="https://plus.google.com/share?url=http://portaldodog.com.br/cachorros/racas/affenpinscher/" title="Compartilhe esse post no Google+" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/novas/rede-google.png" /></a></li> 
+      <br clear="all" />
+     </div>
+     <div id="receba-noticias">
+      <div class="receba-tit">
+       <span>Receba nossas not&iacute;cias</span>
+      </div>
+      <form class="formulario_news" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=PortalDoDog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> 
+       <input type="text" value="Coloque seu E-mail" name="email" onblur="addText(this);" onfocus="clearText(this)" />
+       <input type="hidden" value="PortalDoDog" name="uri" />
+       <input type="hidden" name="loc" value="pt_BR" /> 
+       <input type="submit" value="enviar" class="btn-receba" /> 
+       <br clear="all" />
+      </form> 
+      <br clear="all" />
+     </div>
+    </div>
+   </div>
+   <div id="comentario-total">
+    <div class="veja-tit">
+     <span>Deixe seu coment&aacute;rio</span>
+    </div>
+    <div id="comentarios">
+     <div id="disqus_thread">
+      <div id="dsq-content">
+       <ul id="dsq-comments">
+        <li class="post pingback"><p>Pingback: <a href="http://portaldodog.com.br/cachorros/listas/lista-com-racas-de-cachorros-ideais-para-apartamento/" rel="external nofollow" class="url">Lista com ra&ccedil;as de cachorros ideais para apartamento | Portal do Dog - O maior Portal de Cachorros do Brasil</a></p></li>
+       </ul>
+      </div>
+     </div>
+     <script type="text/javascript">/*<![CDATA[*/var disqus_url='http://portaldodog.com.br/cachorros/racas/affenpinscher/';var disqus_identifier='1017 http://portaldodog.com.br/cachorros/?p=1017';var disqus_container_id='disqus_thread';var disqus_domain='disqus.com';var disqus_shortname='portaldodog';var disqus_title="Affenpinscher";var disqus_config=function(){var config=this;config.language='';config.callbacks.preData.push(function(){document.getElementById(disqus_container_id).innerHTML='';});config.callbacks.onReady.push(function(){var script=document.createElement('script');script.async=true;script.src='?cf_action=sync_comments&post_id=1017';var firstScript=document.getElementsByTagName("script")[0];firstScript.parentNode.insertBefore(script,firstScript);});};/*]]>*/</script>
+     <script type="text/javascript">/*<![CDATA[*/var DsqLocal={'trackbacks':[{'author_name':"Lista com raças de cachorros ideais para apartamento | Portal do Dog - O maior Portal de Cachorros do Brasil",'author_url':"http:\/\/portaldodog.com.br\/cachorros\/listas\/lista-com-racas-de-cachorros-ideais-para-apartamento\/",'date':"10\/12\/2013 05:31 PM",'excerpt':"[&#8230;] Affenpinscher &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. Bichon Frisé &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [&#8230;] ",'type':"pingback"}],'trackback_url':"http:\/\/portaldodog.com.br\/cachorros\/racas\/affenpinscher\/trackback\/"};/*]]>*/</script>
+     <script type="text/javascript">/*<![CDATA[*/(function(){var dsq=document.createElement('script');dsq.type='text/javascript';dsq.async=true;dsq.src='//'+disqus_shortname+'.'+'disqus.com'+'/embed.js?pname=wordpress&pver=2.74';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(dsq);})();/*]]>*/</script>
+    </div>
+   </div>
+  </div> 
+  <br clear="all" />
+  <div id="footer">
+   <div id="footer_int">
+    <ul>
+     <li><h3>Not&iacute;cias</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Not&iacute;cias">Not&iacute;cias</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/dica-de-compra/" title="Dicas de Compras">Dica de Compra</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/celebridades/" title="C&atilde;es Celebridades">Celebridades</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/entretenimento/" title="Entretenimentos">Entretenimento</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/entrevistas/" title="Entrevistas Portal do Dog">Entrevista</a></li>
+    </ul>
+    <ul>
+     <li><h3>Cachorro</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Top 10 Listas">Lista</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Curiosidades Caninas">Curiosidades</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/cachorro/" title="Cachorro">O Cachorro</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/series_especiais/porque/" title="Porque Meu Cachorro">Por que Meu Cachorro?</a></li>
+     <li class="espaco"><h3><a href="http://portaldodog.com.br/cachorros/racas-de-cachorros/a/" title="Ra&ccedil;as de Cachorros">Ra&ccedil;as</a></h3></li>
+    </ul>
+    <ul>
+     <li><h3>Bem-Estar</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Sa&uacute;de Canina">Sa&uacute;de</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/alimentacao/" title="Alimenta&ccedil;&atilde;o">Alimenta&ccedil;&atilde;o</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/exercicios-diversao/" title="Exerc&iacute;cios e Divers&atilde;o">Exerc&iacute;cios e Divers&atilde;o</a></li>
+     <li class="espaco"><h3>Colunistas</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/colunistas/islene_lima_verde/" title="Colunista Veterin&aacute;ria Islene Lima Verde">Dra. Islene Lima Verde</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/colunistas/olivier_soulier/" title="Colunista Adestrador Olivier Soulier">Olivier Soulier</a></li>
+    </ul>
+    <ul>
+     <li><h3>Conviv&ecirc;ncia</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/convivencia/filhotes/" title="Filhotes">Filhotes</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/convivencia/adultos/" title="Cachorros Adultos">Adultos</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/" title="Cachorros Idosos">Idosos</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/" title="Cachorros Viagem">Viagem</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/convivencia/adestramento/" title="Cachorros Adestramento">Adestramento</a></li>
+    </ul>
+    <ul>
+     <li><h3>V&iacute;deos</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/videos/geralv/" title="V&iacute;deos">Geral</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/videos/propagandas/" title="Cachorros Propagandas">Propagandas</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/videos/videosengracados/" title="V&iacute;deos Engra&ccedil;ados">Engra&ccedil;ados</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/videos-das-racas/" title="V&iacute;deos Ra&ccedil;as">Ra&ccedil;as</a></li>
+    </ul>
+    <ul>
+     <li><h3>Fotos</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/fotos/" title="Galerias de Fotos">Galerias</a></li>
+     <li class="espaco"><h3>S&eacute;ries Especiais</h3></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/humor/" title="Humor Canino">Humor</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/category/boas-ideias-para-cachorro/" title="Boas Ideias">Boas Ideias</a></li>
+    </ul>
+   </div> 
+   <br clear="all" />
+  </div>
+  <div id="termos_total">
+   <div id="termos"> 
+    <a href="http://portaldodog.com.br/cachorros" title="PortaldoDog.com.br"><img title="PortaldoDog.com.br" alt="portaldodog.com.br" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/Imagens/index/portaldodog_logo_site.png" /></a>
+    <ul>
+     <li><a href="http://portaldodog.com.br/cachorros/portal-do-dog/" title="Informa&ccedil;&otilde;es" rel="nofollow">PORTAL DO DOG</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/anuncie/" title="Anuncie" rel="nofollow">ANUNCIE</a></li>
+     <li><a href="http://portaldodog.com.br/cachorros/fale-conosco/" title="Fale Conosco" rel="nofollow">FALE CONOSCO</a></li>
+     <li class="last"><a href="http://portaldodog.com.br/cachorros/termos-de-uso/" title="Termos de Uso" rel="nofollow">TERMOS DE USO</a></li>
+    </ul> 
+    <br clear="all" />
+   </div>
+  </div>
+  <div id="copy_total">
+   <div id="copy">
+    <p>Copyright 2013 - Todos os direitos reservados &agrave; portaldodog.com.br</p>
+   </div>
+  </div>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/js/jquery.jscrollpane.min.js"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/js/jquery.mousewheel.js"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/js/jquery.scrollTo-min.js"></script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/js/init_pags.js"></script>
+  <script>function clearText(theField)
+{if(theField.defaultValue==theField.value)
+theField.value='';}function addText(theField)
+{if(theField.value=='')
+theField.value=theField.defaultValue;}</script>
+  <script type="text/javascript">_atrk_opts={atrk_acct:"bI9ki1aUCm002m",domain:"portaldodog.com.br",dynamic:true};(function(){var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as,s);})();</script>
+  <noscript>
+   <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=bI9ki1aUCm002m" style="display:none" height="1" width="1" alt="" />
+  </noscript> 
+  <script type="text/javascript">/*<![CDATA[*/var disqus_shortname='portaldodog';(function(){var nodes=document.getElementsByTagName('span');for(var i=0,url;i<nodes.length;i++){if(nodes[i].className.indexOf('dsq-postid')!=-1){nodes[i].parentNode.setAttribute('data-disqus-identifier',nodes[i].getAttribute('rel'));url=nodes[i].parentNode.href.split('#',1);if(url.length==1)url=url[0];else url=url[1]
+nodes[i].parentNode.href=url+'#disqus_thread';}}
+var s=document.createElement('script');s.async=true;s.type='text/javascript';s.src='//'+'disqus.com/forums/'+disqus_shortname+'/count.js';(document.getElementsByTagName('HEAD')[0]||document.getElementsByTagName('BODY')[0]).appendChild(s);}());/*]]>*/</script> 
+  <script type="text/javascript">var emailL10n={"ajax_url":"http:\/\/portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"Ocorreram os seguintes erros:","text_name_invalid":"- Seu nome \u00e9 vazio\/inv\u00e1lido","text_email_invalid":"- Seu email \u00e9 vazio\/inv\u00e1lido","text_remarks_invalid":"- Seu coment\u00e1rio \u00e9 inv\u00e1lido","text_friend_names_empty":"- Nome de amigo(s) \u00e9 vazio","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Nome de amigo(s) \u00e9 vazio","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- O n\u00famero de nomes de amigos n\u00e3o conferem com o n\u00famero de emails de amigos","text_image_verify_empty":"- Imagem de valida\u00e7\u00e3o \u00e9 vazia"};</script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-email/email-js.js?ver=2.60"></script>
+  <script type="text/javascript">var pollsL10n={"ajax_url":"http:\/\/portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","text_wait":"Sua \u00faltima requisi\u00e7\u00e3o est\u00e1 sendo processada. Por favor, espere um momento ...","text_valid":"Por favor, escolha uma resposta v\u00e1lida para enquete.","text_multiple":"N\u00famero de escolhas permitidas:","show_loading":"1","show_fading":"1"};</script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-polls/polls-js.js?ver=2.63"></script>
+  <script type="text/javascript">var viewsCacheL10n={"admin_ajax_url":"http:\/\/portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","post_id":"1017"};</script>
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.64"></script>
+ </body>
+</html>
+
+
+
+
+
+<li><b>N&iacute;vel de energia : </b><span class="car_dados">Baixo</span></li>
+<li><b>Exerc&iacute;cio : </b><span class="car_dados">Pouco</span></li>
+<li><b>Brincalh&atilde;o : </b><span class="car_dados">N&atilde;o muito brincalh&atilde;o</span></li>
+<li><b>N&iacute;vel de afei&ccedil;&atilde;o : </b><span class="car_dados">Moderado</span></li>
+<li><b>Amig&aacute;vel com outros cachorros : </b><span class="car_dados">T&iacute;mido</span></li>
+<li><b>Amig&aacute;vel com outros animais de estima&ccedil;&atilde;o : </b><span class="car_dados">Muito amig&aacute;vel</span></li>
+<li><b>Amig&aacute;vel com estranhos : </b><span class="car_dados">T&iacute;mido</span></li>
+<li><b>F&aacute;cil de Treinar : </b><span class="car_dados">F&aacute;cil</span></li>
+<li><b>C&atilde;o de Guarda : </b><span class="car_dados">Sim</span></li>
+<li><b>Habilidade de prote&ccedil;&atilde;o : </b><span class="car_dados">Muito protetor</span></li>
+<li><b>Cuidados com a apar&ecirc;ncia : </b><span class="car_dados">Poucos</span></li>
+<li><b>Toler&acirc;ncia ao frio : </b><span class="car_dados">M&eacute;dia toler&acirc;ncia</span></li>
+<li><b>Toler&acirc;ncia ao calor : </b><span class="car_dados">Baixa toler&acirc;ncia</span></li>
