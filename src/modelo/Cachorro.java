@@ -4,35 +4,37 @@ package modelo;
 public class Cachorro {
 	
 //	Informações Gerais
-	/*FEITO*/
-	String nome;
-	String infoGeral;
-	String nomeCientifico;
-	String perfil;
-	String temperamento;
-	String tamanhoMacho;
-	String tamanhoFemea;
-	String pesoMacho;
-	String pesoFemea;
+	private String nome;
+	private String infoGeral;
+	private String nomeCientifico;
+	private String perfil;
+	private String temperamento;
+	private String tamanhoMacho;
+	private String tamanhoFemea;
+	private String pesoMacho;
+	private String pesoFemea;
 	
 //	Caracteristicas
-	String nivelEnergia;
-	String exercicio;
-	String brincalhao;
-	String nivelAfeicao;
-	String amigavelCachorros;
-	String amigavelAnimais;
-	String amigavelEstranhos;
-	String facilTreinar;
-	String guarda;
-	String habilidadeProtecao;
-	String cuidadosAparencia;
-	String toleranciaFrio;
-	String toleranciaCalor;
+	private String nivelEnergia;
+	private String exercicio;
+	private String brincalhao;
+	private String nivelAfeicao;
+	private String amigavelCachorros;
+	private String amigavelAnimais;
+	private String amigavelEstranhos;
+	private String facilTreinar;
+	private String guarda;
+	private String habilidadeProtecao;
+	private String cuidadosAparencia;
+	private String toleranciaFrio;
+	private String toleranciaCalor;
 
-	String saude;
+	private String saude;
 
-	String origem;
+	private String origem;
+	
+	private String grupo;
+	private String link;
 
 //	Construtor
 	public Cachorro() {}
@@ -64,6 +66,12 @@ public class Cachorro {
 	}
 	public void setPerfil(String perfil) {
 		this.perfil = perfil;
+	}
+	public String getNomeCientifico() {
+		return nomeCientifico;
+	}
+	public void setNomeCientifico(String nomeCientifico) {
+		this.nomeCientifico = nomeCientifico;
 	}
 	public String getTemperamento() {
 		return temperamento;
@@ -184,5 +192,17 @@ public class Cachorro {
 	}
 	public void setOrigem(String origem) {
 		this.origem = origem;
+	}
+	public String getGrupo() {
+		return grupo;
+	}
+	public void setGrupo(String grupo) {
+		this.grupo = grupo;
+	}
+	public String getLink() {
+		return link;
+	}
+	public void setLink(String link) {
+		this.link = link;
 	}
 }

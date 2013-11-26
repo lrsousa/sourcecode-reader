@@ -1,11 +1,15 @@
 package sourceCodeReader;
 
+import java.io.IOException;
+
+import modelo.Grupo;
+
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class DadosCachorro {
-	
+
 	private Element elemento;
 	
 	/*Separar Conteúdo*/
@@ -181,5 +185,25 @@ public class DadosCachorro {
 		Elements temp = this.elemento.getElementsByClass("acc_pag");
 		origem = temp.eq(3).text();
 		return origem;
+	}
+	
+	public String getGrupo(String nome) throws IOException {
+		DadosGrupo dados = new DadosGrupo();
+		for (Grupo grupo : dados.getGrupos()) {
+			if(grupo.getListaRacas().contains(nome)) {
+				return grupo.getNome();
+			}
+		}
+		return null;
+	}
+	
+	public String getLink(String nome) throws IOException {
+		DadosGrupo dados = new DadosGrupo();
+		for (Grupo grupo : dados.getGrupos()) {
+			if(grupo.getListaRacas().contains(nome)) {
+				return grupo.getLinksRacas().get(grupo.getListaRacas().indexOf(nome));
+			}
+		}
+		return null;
 	}
 }
