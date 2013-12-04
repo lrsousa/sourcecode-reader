@@ -9,7 +9,6 @@
 Grupo de Trabalho - Portal do Dog – O maior Portal de Cachorros do Brasil</title> 
   <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css" /> 
   <style type="text/css" media="screen">@import url(http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/style.css);@import url(http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/jquery.jscrollpane.css);</style> 
-  <style type="text/css">.stpulldown-gradient{background:#E1E1E1;background:-moz-linear-gradient(top,#E1E1E1 0%,#A7A7A7 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#E1E1E1),color-stop(100%,#A7A7A7));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E1E1E1',endColorstr='#A7A7A7',GradientType=0);background:-o-linear-gradient(top,#E1E1E1 0%,#A7A7A7 100%);color:#636363;}#stpulldown .stpulldown-logo{height:40px;width:300px;margin-left:20px;margin-top:5px;background:url('') no-repeat;}</style> 
   <link rel="canonical" href="http://portaldodog.com.br/cachorros/category/racas/trabalho/" /> 
   <link rel="next" href="http://portaldodog.com.br/cachorros/category/racas/trabalho/page/2/" /> 
   <link rel="publisher" href="https://plus.google.com/107372596259737261558" /> 
@@ -21,30 +20,11 @@ Grupo de Trabalho - Portal do Dog – O maior Portal de Cachorros do Brasil</tit
   <meta property="article:publisher" content="http://www.facebook.com/portaldodog" /> 
   <link rel="alternate" type="application/rss+xml" title="Feed da Categoria Portal do Dog - O maior Portal de Cachorros do Brasil &raquo; Grupo de Trabalho" href="http://portaldodog.com.br/cachorros/category/racas/trabalho/feed/" /> 
   <link rel="stylesheet" id="colorbox-theme5-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/themes/theme5/colorbox.css?ver=4.6" type="text/css" media="screen" /> 
-  <link rel="stylesheet" id="nextgen_gallery_related_images-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_images.css?ver=3.7.1" type="text/css" media="all" /> 
   <link rel="stylesheet" id="tubepress-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5/sys/ui/themes/default/style.css?ver=3.7.1" type="text/css" media="all" /> 
-  <link rel="stylesheet" id="wp-email-css" href="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/email-css.css?ver=2.60" type="text/css" media="all" /> 
-  <link rel="stylesheet" id="wp-polls-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-polls/polls-css.css?ver=2.63" type="text/css" media="all" /> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
-  <script type="text/javascript">
-/* <![CDATA[ */
-var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"true","colorboxSlideshowAuto":"false","colorboxScalePhotos":"true","colorboxPreloading":"true","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"fechar","colorboxNext":"pr\u00f3xima","colorboxPrevious":"anterior","colorboxSlideshowStart":"iniciar apresenta\u00e7\u00e3o","colorboxSlideshowStop":"parar apresenta\u00e7\u00e3o","colorboxCurrent":"Imagem {current} de {total}","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"80%","colorboxImageMaxHeight":"80%","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"80%","colorboxLinkWidth":"80%","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"true","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
-/* ]]> */
-</script> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.3.21"></script> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6"></script> 
-  <script type="text/javascript">
-/* <![CDATA[ */
-var photocrati_ajax = {"url":"http:\/\/portaldodog.com.br\/cachorros\/photocrati_ajax","wp_site_url":"http:\/\/portaldodog.com.br\/cachorros","wp_site_static_url":"http:\/\/portaldodog.com.br\/cachorros"};
-/* ]]> */
-</script> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.js?ver=3.7.1"></script> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5/sys/ui/static/js/tubepress.js?ver=3.7.1"></script> 
   <style type="text/css"><br />
 <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/underweb/public_html/cachorros/wp-content/plugins/collapsing-archives/collapsArch.php</b> on line <b>63</b><br />
 </style> 
-  <!-- <meta name="NextGEN" version="2.0.33" /> --> 
+  <!-- <meta name="NextGEN" version="1.9.13" /> --> 
   <!-- begin nextgen-smooth scripts --> 
   <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-smooth-gallery/SmoothGallery/scripts/mootools.v1.11.js"></script> 
   <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-smooth-gallery/SmoothGallery/scripts/jd.gallery.js"></script> 
@@ -55,6 +35,8 @@ var photocrati_ajax = {"url":"http:\/\/portaldodog.com.br\/cachorros\/photocrati
   <script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
   <script charset="utf-8" type="text/javascript">stLight.options({publisher:"62efc7fd-5212-4699-9b24-670607978294" });var st_type='wordpress3.6.1';</script>
   <script type="text/javascript">function getTubePressBaseUrl(){return "http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5";}</script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script> 
   <style type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -100,16 +82,23 @@ r7ad.printGAds([728, 90], 'Superbanner');
    <!--logo--> 
   </div>
   <!--logo-total--> 
-  <!--<script type="text/javascript">
-jQuery(document).ready(function() {  
-if (document.cookie.indexOf('visited=true') == -1) {
-        var fifteenDays = 1000*60*60;
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/js/jquery.cookie.js"></script> 
+  <script type="text/javascript">
+jQuery(document).ready(function() {
+var TEST_COOKIE = 'test_cookie';
+    jQuery.cookie( TEST_COOKIE, true );
+    if ( jQuery.cookie ( TEST_COOKIE ) ) {
+    // cookie worked, set/enable appropriate things
+  if (document.cookie.indexOf('visited=true') == -1) {
+	    jQuery.cookie( TEST_COOKIE, null );  // delete the cookie
+        var fifteenDays = 1000 * 60 * 60 * 24 * 7;
         var expires = new Date((new Date()).valueOf() + fifteenDays);
         document.cookie = "visited=true;expires=" + expires.toUTCString();
-jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scrolling:false, opacity:0.6, innerWidth:400, innerHeight:400});  
-}
+jQuery.colorbox({href:"http://portaldodog.com.br/facebook.php", open:true, scrolling:false, opacity:0.6, innerWidth:400, innerHeight:260});  
+  }
+} else{}
 });
-</script> --> 
+</script> 
   <nav id="menu" role="navigation"> 
    <ul> 
     <div id="back_menu"></div> 
@@ -129,18 +118,18 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
        </div>
        <!--titulo-ultimas--> 
        <span class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
-       <span class="subtitulo_not"><a title="Naldo e Moranguinho se mudam e abandonam cachorra" href="http://portaldodog.com.br/cachorros/noticias/naldo-e-moranguinho-se-mudam-e-abandonam-cachorra/">Naldo e Moranguinho se mudam e abandonam cachorra</a></span> 
+       <span class="subtitulo_not"><a title="Cachorro fica preso em tubula&ccedil;&atilde;o de irriga&ccedil;&atilde;o ao perseguir um esquilo" href="http://portaldodog.com.br/cachorros/noticias/cachorro-fica-preso-em-tubulacao-de-irrigacao-ao-perseguir-um-esquilo/">Cachorro fica preso em tubula&ccedil;&atilde;o de irriga&ccedil;&atilde;o ao perseguir um esquilo</a></span> 
        <span class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
-       <span class="subtitulo_not"><a title="Cadela &eacute; encontrada viva debaixo de escombros depois de tornado em Washington" href="http://portaldodog.com.br/cachorros/noticias/cadela-e-encontrada-viva-debaixo-de-escombros-depois-de-tornado-em-washington/">Cadela &eacute; encontrada viva debaixo de escombros depois de tornado em Washington</a></span> 
+       <span class="subtitulo_not"><a title="Calend&aacute;rio Celebridade Vira-Lata 2014 j&aacute; est&aacute; &agrave; venda" href="http://portaldodog.com.br/cachorros/noticias/calendario-celebridade-vira-lata-2014-ja-esta-venda/">Calend&aacute;rio Celebridade Vira-Lata 2014 j&aacute; est&aacute; &agrave; venda</a></span> 
+       <span class="titulo_cat_submenu cat_celebridades"><a href="http://portaldodog.com.br/cachorros/category/celebridades/" title="Ver todos os posts em Celebridades" rel="category tag">Celebridades</a></span> 
+       <span class="subtitulo_not"><a title="O cachorro de Luisa Mell est&aacute; doente" href="http://portaldodog.com.br/cachorros/celebridades/o-cachorro-de-luisa-mell-esta-doente/">O cachorro de Luisa Mell est&aacute; doente</a></span> 
        <span class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
-       <span class="subtitulo_not"><a title="“Woof to Wash” &eacute; m&aacute;quina de lavar desenvolvida especificamente para c&atilde;es de servi&ccedil;o" href="http://portaldodog.com.br/cachorros/noticias/woof-to-wash-e-maquina-de-lavar-desenvolvida-especificamente-para-caes-de-servico/">“Woof to Wash” &eacute; m&aacute;quina de lavar desenvolvida especificamente para c&atilde;es de servi&ccedil;o</a></span> 
-       <span class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
-       <span class="subtitulo_not"><a title="Cachorro come a li&ccedil;&atilde;o de casa de garota e vai parar no hospital" href="http://portaldodog.com.br/cachorros/noticias/cachorro-come-licao-de-casa-de-garota-e-vai-parar-hospital/">Cachorro come a li&ccedil;&atilde;o de casa de garota e vai parar no hospital</a></span> 
+       <span class="subtitulo_not"><a title="Tasha, uma cadela de servi&ccedil;o, &eacute; proibida de visitar crian&ccedil;a em coma depois de 6 anos de trabalhos juntos" href="http://portaldodog.com.br/cachorros/noticias/tasha-uma-cadela-de-servico-e-proibida-de-visitar-crianca-em-coma-depois-de-6-anos-de-trabalhos-juntos/">Tasha, uma cadela de servi&ccedil;o, &eacute; proibida de visitar crian&ccedil;a em coma depois de 6 anos de trabalhos juntos</a></span> 
       </div> 
       <div class="trescolunas ultimo"> 
        <span style="margin-left:10px;" class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a></span> 
-       <a href="http://portaldodog.com.br/cachorros/noticias/naldo-e-moranguinho-se-mudam-e-abandonam-cachorra/" title="Naldo e Moranguinho se mudam e abandonam cachorra"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/naldo-moranguinho-350x142.jpg" class="img-submenu noticias-m colorbox-17321  wp-post-image" alt="Naldo e Moranguinho 'esqueceram' a cadela Aisha na antiga casa. Foto: AgNews" /></a> 
-       <h4 class="not-submenu-h4"><a title="Naldo e Moranguinho se mudam e abandonam cachorra" href="http://portaldodog.com.br/cachorros/noticias/naldo-e-moranguinho-se-mudam-e-abandonam-cachorra/">Naldo e Moranguinho se mudam e abandonam cachorra</a></h4> 
+       <a href="http://portaldodog.com.br/cachorros/noticias/cachorro-fica-preso-em-tubulacao-de-irrigacao-ao-perseguir-um-esquilo/" title="Cachorro fica preso em tubula&ccedil;&atilde;o de irriga&ccedil;&atilde;o ao perseguir um esquilo"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/cachorro-preso-tubulacao-irrigacao-Copy-350x142.jpg" class="img-submenu noticias-m colorbox-17811  wp-post-image" alt="cachorro-preso-tubulacao-irrigacao - Copy" /></a> 
+       <h4 class="not-submenu-h4"><a title="Cachorro fica preso em tubula&ccedil;&atilde;o de irriga&ccedil;&atilde;o ao perseguir um esquilo" href="http://portaldodog.com.br/cachorros/noticias/cachorro-fica-preso-em-tubulacao-de-irrigacao-ao-perseguir-um-esquilo/">Cachorro fica preso em tubula&ccedil;&atilde;o de irriga&ccedil;&atilde;o ao perseguir um esquilo</a></h4> 
       </div> 
      </div></li> 
     <li id="car"><a class="principal cachorro-menu" href="#">Cachorro</a> 
@@ -156,19 +145,19 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
         &Uacute;LTIMAS
        </div>
        <!--titulo-ultimas--> 
-       <span class="titulo_cat_submenu cat_listas"><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Ver todos os posts em Listas" rel="category tag">Listas</a></span> 
-       <span class="subtitulo_not"><a title="11 coisas que os cachorros fazem melhor do que voc&ecirc;" href="http://portaldodog.com.br/cachorros/listas/11-coisas-que-os-cachorros-fazem-melhor-que-voce/">11 coisas que os cachorros fazem melhor do que voc&ecirc;</a></span> 
-       <span class="titulo_cat_submenu cat_listas"><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Ver todos os posts em Listas" rel="category tag">Listas</a></span> 
-       <span class="subtitulo_not"><a title="20 obras com c&atilde;es retratados em graffiti" href="http://portaldodog.com.br/cachorros/listas/20-obras-com-caes-retratados-em-graffiti/">20 obras com c&atilde;es retratados em graffiti</a></span> 
        <span class="titulo_cat_submenu cat_curiosidades"><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Ver todos os posts em Curiosidades" rel="category tag">Curiosidades</a></span> 
-       <span class="subtitulo_not"><a title="Cachorros t&ecirc;m a intelig&ecirc;ncia de uma crian&ccedil;a de 2 anos" href="http://portaldodog.com.br/cachorros/curiosidades/cachorros-tem-inteligencia-de-uma-crianca-de-2-anos/">Cachorros t&ecirc;m a intelig&ecirc;ncia de uma crian&ccedil;a de 2 anos</a></span> 
+       <span class="subtitulo_not"><a title="Cachorros s&atilde;o capazes de detectar gravidez em mulheres?" href="http://portaldodog.com.br/cachorros/curiosidades/cachorros-sao-capazes-de-detectar-gravidez-em-mulheres/">Cachorros s&atilde;o capazes de detectar gravidez em mulheres?</a></span> 
+       <span class="titulo_cat_submenu cat_curiosidades"><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Ver todos os posts em Curiosidades" rel="category tag">Curiosidades</a></span> 
+       <span class="subtitulo_not"><a title="Voc&ecirc; sabia que os cachorros entendem quando voc&ecirc; est&aacute; sorrindo?" href="http://portaldodog.com.br/cachorros/curiosidades/voce-sabia-que-os-cachorros-entendem-quando-voce-esta-sorrindo/">Voc&ecirc; sabia que os cachorros entendem quando voc&ecirc; est&aacute; sorrindo?</a></span> 
        <span class="titulo_cat_submenu cat_listas"><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Ver todos os posts em Listas" rel="category tag">Listas</a></span> 
-       <span class="subtitulo_not"><a title="As 15 ra&ccedil;as de cachorros mais quietas" href="http://portaldodog.com.br/cachorros/listas/15-racas-de-cachorros-mais-quietas/">As 15 ra&ccedil;as de cachorros mais quietas</a></span> 
+       <span class="subtitulo_not"><a title="10 sinais de c&acirc;ncer nos cachorros" href="http://portaldodog.com.br/cachorros/listas/10-sinais-de-cancer-nos-cachorros/">10 sinais de c&acirc;ncer nos cachorros</a></span> 
+       <span class="titulo_cat_submenu cat_curiosidades"><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Ver todos os posts em Curiosidades" rel="category tag">Curiosidades</a></span> 
+       <span class="subtitulo_not"><a title="Teste o QI do seu cachorro" href="http://portaldodog.com.br/cachorros/curiosidades/teste-o-qi-seu-cachorro/">Teste o QI do seu cachorro</a></span> 
       </div> 
       <div class="trescolunas ultimo"> 
-       <span style="margin-left:10px;" class="titulo_cat_submenu cat_curiosidades"><a href="http://portaldodog.com.br/cachorros/category/curiosidades/" title="Ver todos os posts em Curiosidades" rel="category tag">Curiosidades</a></span> 
-       <a href="http://portaldodog.com.br/cachorros/curiosidades/teste-o-qi-seu-cachorro/" title="Teste o QI do seu cachorro"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorro-teste-qi-350x142.jpg" class="img-submenu cachorro-m colorbox-17066  wp-post-image" alt="Foto: Reprodu&ccedil;&atilde;o / Google" /></a> 
-       <h4 class="cach-submenu-h4"><a title="Teste o QI do seu cachorro" href="http://portaldodog.com.br/cachorros/curiosidades/teste-o-qi-seu-cachorro/">Teste o QI do seu cachorro</a></h4> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_listas"><a href="http://portaldodog.com.br/cachorros/category/listas/" title="Ver todos os posts em Listas" rel="category tag">Listas</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/listas/13-racas-de-cachorros-grandes/" title="13 ra&ccedil;as de cachorros grandes"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/Dogue-alemao-350x142.jpg" class="img-submenu cachorro-m colorbox-17670  wp-post-image" alt="Dogue Alem&atilde;o (Foto: Reprodu&ccedil;&atilde;o / Google)" /></a> 
+       <h4 class="cach-submenu-h4"><a title="13 ra&ccedil;as de cachorros grandes" href="http://portaldodog.com.br/cachorros/listas/13-racas-de-cachorros-grandes/">13 ra&ccedil;as de cachorros grandes</a></h4> 
       </div> 
      </div> </li> 
     <li id="racas"><a class="principal racas-menu" href="#">Ra&ccedil;as</a> 
@@ -247,12 +236,12 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
        </div>
        <!--titulo-ultimas--> 
        <div class="raca-dia-menu">
-        <a href="http://portaldodog.com.br/cachorros/racas/pinscher-alemao"><img width="350" height="220" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/pinscher_alemao_raca_portal_dog-2-350x220.jpg" class="attachment-raca_dia_index colorbox-17066  wp-post-image" alt="pinscher_alemao_raca_portal_dog (2)" /></a>
+        <a href="http://portaldodog.com.br/cachorros/racas/retriever-da-nova-escocia"><img width="350" height="220" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/04/retriever_nova_escocia_raca_portal_dog-14-350x220.jpg" class="attachment-raca_dia_index colorbox-17670  wp-post-image" alt="retriever_nova_escocia_raca_portal_dog (14)" /></a>
         <div id="raca_do_dia">
-         <span style="font-size:18px;"><a href="http://portaldodog.com.br/cachorros/racas/pinscher-alemao">Pinscher Alem&atilde;o</a></span>
+         <span style="font-size:18px;"><a href="http://portaldodog.com.br/cachorros/racas/retriever-da-nova-escocia">Retriever da Nova Esc&oacute;cia</a></span>
          <!--barra_titulo_racas-->
          <br />
-         <span style="display:block; margin-top:10px;">C&atilde;o muito fino, elegante e harmonioso.</span>
+         <span style="display:block; margin-top:10px;">C&atilde;o de tamanho m&eacute;dio, compacto e muito musculoso.</span>
          <!--barra_texto_racas-->
         </div>
         <!--raca-do-dia-->
@@ -274,17 +263,17 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
        <!--titulo-ultimas--> 
        <span class="titulo_cat_submenu cat_saude"><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Ver todos os posts em Sa&uacute;de" rel="category tag">Sa&uacute;de</a></span> 
        <span class="subtitulo_not"><a title="Obesidade em cachorros" href="http://portaldodog.com.br/cachorros/saude/obesidade-em-cachorros/">Obesidade em cachorros</a></span> 
-       <span class="titulo_cat_submenu cat_alimentacao"><a href="http://portaldodog.com.br/cachorros/category/alimentacao/" title="Ver todos os posts em Alimenta&ccedil;&atilde;o" rel="category tag">Alimenta&ccedil;&atilde;o</a></span> 
-       <span class="subtitulo_not"><a title="Como escolher o pote correto para o seu cachorro" href="http://portaldodog.com.br/cachorros/alimentacao/como-escolher-o-pote-correto-para-o-seu-cachorro/">Como escolher o pote correto para o seu cachorro</a></span> 
        <span class="titulo_cat_submenu cat_saude"><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Ver todos os posts em Sa&uacute;de" rel="category tag">Sa&uacute;de</a></span> 
        <span class="subtitulo_not"><a title="Pulgas em cachorros" href="http://portaldodog.com.br/cachorros/saude/pulgas-em-cachorros/">Pulgas em cachorros</a></span> 
        <span class="titulo_cat_submenu cat_exercicios-diversao"><a href="http://portaldodog.com.br/cachorros/category/exercicios-diversao/" title="Ver todos os posts em Exerc&iacute;cios e Divers&atilde;o" rel="category tag">Exerc&iacute;cios e Divers&atilde;o</a></span> 
        <span class="subtitulo_not"><a title="Day Care canino &eacute; &oacute;tima op&ccedil;&atilde;o para preencher o cotidiano do seu c&atilde;o" href="http://portaldodog.com.br/cachorros/exercicios-diversao/day-care-canino-e-otima-opcao-para-preencher-o-cotidiano-do-seu-cao/">Day Care canino &eacute; &oacute;tima op&ccedil;&atilde;o para preencher o cotidiano do seu c&atilde;o</a></span> 
+       <span class="titulo_cat_submenu cat_saude"><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Ver todos os posts em Sa&uacute;de" rel="category tag">Sa&uacute;de</a></span> 
+       <span class="subtitulo_not"><a title="Como limpar a orelha do cachorro" href="http://portaldodog.com.br/cachorros/saude/como-limpar-a-orelha-do-cachorro/">Como limpar a orelha do cachorro</a></span> 
       </div> 
       <div class="trescolunas ultimo"> 
-       <span style="margin-left:10px;" class="titulo_cat_submenu cat_alimentacao"><a href="http://portaldodog.com.br/cachorros/category/alimentacao/" title="Ver todos os posts em Alimenta&ccedil;&atilde;o" rel="category tag">Alimenta&ccedil;&atilde;o</a></span> 
-       <a href="http://portaldodog.com.br/cachorros/alimentacao/qual-quantidade-de-calorias-que-meu-cachorro-deve-ingerir-por-dia/" title="Qual a quantidade de calorias que meu cachorro deve ingerir por dia?"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/calorias-cachorro-dia-350x142.jpg" class="img-submenu saude-m colorbox-17316  wp-post-image" alt="Foto: Reprodu&ccedil;&atilde;o / Google" /></a> 
-       <h4 class="bem-submenu-h4"><a title="Qual a quantidade de calorias que meu cachorro deve ingerir por dia?" href="http://portaldodog.com.br/cachorros/alimentacao/qual-quantidade-de-calorias-que-meu-cachorro-deve-ingerir-por-dia/">Qual a quantidade de calorias que meu cachorro deve ingerir por dia?</a></h4> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_saude"><a href="http://portaldodog.com.br/cachorros/category/saude/" title="Ver todos os posts em Sa&uacute;de" rel="category tag">Sa&uacute;de</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/saude/os-maleficios-de-nao-recolher-fezes-de-seu-cachorro/" title="Os malef&iacute;cios de n&atilde;o recolher as fezes de seu cachorro"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/maleficios-fezes-caninas-sociedade-350x142.jpg" class="img-submenu saude-m colorbox-17643  wp-post-image" alt="Foto: Reprodu&ccedil;&atilde;o/Google Images" /></a> 
+       <h4 class="bem-submenu-h4"><a title="Os malef&iacute;cios de n&atilde;o recolher as fezes de seu cachorro" href="http://portaldodog.com.br/cachorros/saude/os-maleficios-de-nao-recolher-fezes-de-seu-cachorro/">Os malef&iacute;cios de n&atilde;o recolher as fezes de seu cachorro</a></h4> 
       </div> 
      </div> </li> 
     <li id="fot"><a class="principal fotos-menu" href="#">Fotos</a> 
@@ -300,29 +289,29 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
        </div>
        <!--titulo-ultimas--> 
        <div class="fotos-videos-menu"> 
-        <a title="Cachorros torcedores de futebol" href="http://portaldodog.com.br/cachorros/fotos/cachorros-torcedores-de-futebol/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/1-cachorro-cruzeiro-100x60.jpg" class="img-raca-menu fotos-m colorbox-16883  wp-post-image" alt="1-cachorro-cruzeiro" /></a> 
-        <span class="subtitulo_fotos"><a title="Cachorros torcedores de futebol" href="http://portaldodog.com.br/cachorros/fotos/cachorros-torcedores-de-futebol/">Cachorros torcedores de futebol</a></span> 
+        <a title="Mulheres gr&aacute;vidas e seus cachorros" href="http://portaldodog.com.br/cachorros/fotos/mulheres-gravidas-e-seus-cachorros/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/cachorros-mulheres-gravidez-PortaldoDog-3-100x60.jpg" class="img-raca-menu fotos-m colorbox-17579  wp-post-image" alt="cachorros-mulheres-gravidez-PortaldoDog (3)" /></a> 
+        <span class="subtitulo_fotos"><a title="Mulheres gr&aacute;vidas e seus cachorros" href="http://portaldodog.com.br/cachorros/fotos/mulheres-gravidas-e-seus-cachorros/">Mulheres gr&aacute;vidas e seus cachorros</a></span> 
        </div>
        <!--fotos-videos-menu--> 
        <div class="fotos-videos-menu"> 
-        <a title="Cachorros brincando de esconde-esconde" href="http://portaldodog.com.br/cachorros/fotos/cachorros-brincando-de-esconde-esconde/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorros-esconde-esconde-fotos-PortaldoDog-15-100x60.jpg" class="img-raca-menu fotos-m colorbox-16722  wp-post-image" alt="cachorros-esconde-esconde-fotos-PortaldoDog (15)" /></a> 
-        <span class="subtitulo_fotos"><a title="Cachorros brincando de esconde-esconde" href="http://portaldodog.com.br/cachorros/fotos/cachorros-brincando-de-esconde-esconde/">Cachorros brincando de esconde-esconde</a></span> 
+        <a title="Passorros ou Cacharos ?" href="http://portaldodog.com.br/cachorros/fotos/passorros-ou-cacharos/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/passaros-cachorros-01-100x60.jpg" class="img-raca-menu fotos-m colorbox-17559  wp-post-image" alt="passaros-cachorros-01" /></a> 
+        <span class="subtitulo_fotos"><a title="Passorros ou Cacharos ?" href="http://portaldodog.com.br/cachorros/fotos/passorros-ou-cacharos/">Passorros ou Cacharos ?</a></span> 
        </div>
        <!--fotos-videos-menu--> 
        <div class="fotos-videos-menu"> 
-        <a title="Cachorros e seus cobertores" href="http://portaldodog.com.br/cachorros/fotos/cachorros-e-seus-cobertores/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorro-cobertor-16-100x60.jpg" class="img-raca-menu fotos-m colorbox-16541  wp-post-image" alt="cachorro-cobertor-16" /></a> 
-        <span class="subtitulo_fotos"><a title="Cachorros e seus cobertores" href="http://portaldodog.com.br/cachorros/fotos/cachorros-e-seus-cobertores/">Cachorros e seus cobertores</a></span> 
+        <a title="Cachorros tamb&eacute;m tiram selfie" href="http://portaldodog.com.br/cachorros/fotos/cachorros-tambem-tiram-selfie/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorros-selfie-PortaldoDog-1-100x60.jpg" class="img-raca-menu fotos-m colorbox-17419  wp-post-image" alt="cachorros-selfie-PortaldoDog (1)" /></a> 
+        <span class="subtitulo_fotos"><a title="Cachorros tamb&eacute;m tiram selfie" href="http://portaldodog.com.br/cachorros/fotos/cachorros-tambem-tiram-selfie/">Cachorros tamb&eacute;m tiram selfie</a></span> 
        </div>
        <!--fotos-videos-menu--> 
        <div class="fotos-videos-menu"> 
-        <a title="Cachorros mostrando a l&iacute;ngua" href="http://portaldodog.com.br/cachorros/fotos/cachorros-mostrando-lingua/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cao-pug-lingua-100x60.jpg" class="img-raca-menu fotos-m colorbox-16246  wp-post-image" alt="cao-pug-lingua" /></a> 
-        <span class="subtitulo_fotos"><a title="Cachorros mostrando a l&iacute;ngua" href="http://portaldodog.com.br/cachorros/fotos/cachorros-mostrando-lingua/">Cachorros mostrando a l&iacute;ngua</a></span> 
+        <a title="Cachorros gulosos" href="http://portaldodog.com.br/cachorros/fotos/cachorros-gulosos/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorro-babando-comida-1-100x60.jpg" class="img-raca-menu fotos-m colorbox-17342  wp-post-image" alt="200455346-001" /></a> 
+        <span class="subtitulo_fotos"><a title="Cachorros gulosos" href="http://portaldodog.com.br/cachorros/fotos/cachorros-gulosos/">Cachorros gulosos</a></span> 
        </div>
        <!--fotos-videos-menu--> 
       </div> 
       <div class="trescolunas ultimo"> 
-       <a href="http://portaldodog.com.br/cachorros/fotos/cachorros-sujos/" title="Cachorros sujos"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cachorros-sujos-fotos-PortaldoDog-1-350x142.jpg" class="img-submenu fotos-m colorbox-17202  wp-post-image" alt="cachorros-sujos-fotos-PortaldoDog  (1)" /></a> 
-       <h4 class="fot-submenu-h4"><a title="Cachorros sujos" href="http://portaldodog.com.br/cachorros/fotos/cachorros-sujos/">Cachorros sujos</a></h4> 
+       <a href="http://portaldodog.com.br/cachorros/fotos/cachorros-com-cortes-e-penteados-especiais/" title="Cachorros com cortes e penteados especiais"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/corte-cao-18-350x142.jpg" class="img-submenu fotos-m colorbox-17608  wp-post-image" alt="corte-cao-18" /></a> 
+       <h4 class="fot-submenu-h4"><a title="Cachorros com cortes e penteados especiais" href="http://portaldodog.com.br/cachorros/fotos/cachorros-com-cortes-e-penteados-especiais/">Cachorros com cortes e penteados especiais</a></h4> 
       </div> 
      </div> </li> 
     <li id="vid"><a class="principal videos-menu" href="#">V&iacute;deos</a> 
@@ -339,29 +328,29 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
        </div>
        <!--titulo-ultimas--> 
        <div class="fotos-videos-menu"> 
-        <a title="C&atilde;o e gato fazem truque da pipoca" href="http://portaldodog.com.br/cachorros/videos/videosengracados/cao-e-gato-fazem-truque-da-pipoca/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/cao-e-gato-fazem-truque-da-pipoca-100x60.jpg" class="img-raca-menu vid-m colorbox-17262  wp-post-image" alt="C&atilde;o e gato fazem truque da pipoca" /></a> 
-        <span class="subtitulo_videos"><a title="C&atilde;o e gato fazem truque da pipoca" href="http://portaldodog.com.br/cachorros/videos/videosengracados/cao-e-gato-fazem-truque-da-pipoca/">C&atilde;o e gato fazem truque da pipoca</a></span> 
+        <a title="Shiba Inu se recusa a andar" href="http://portaldodog.com.br/cachorros/videos/videosengracados/shiba-inu-se-recusa-andar/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/shiba-inu-se-recusa-andar-100x60.jpg" class="img-raca-menu vid-m colorbox-17819  wp-post-image" alt="Shiba Inu se recusa a andar" /></a> 
+        <span class="subtitulo_videos"><a title="Shiba Inu se recusa a andar" href="http://portaldodog.com.br/cachorros/videos/videosengracados/shiba-inu-se-recusa-andar/">Shiba Inu se recusa a andar</a></span> 
        </div>
        <!--fotos-videos-menu--> 
        <div class="fotos-videos-menu"> 
-        <a title="Golden Retriever brincando com coelho" href="http://portaldodog.com.br/cachorros/videos/geralv/golden-retriever-brincando-com-coelho/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/golden-retriever-brincando-com-coelho-100x60.jpg" class="img-raca-menu vid-m colorbox-17208  wp-post-image" alt="Golden Retriever brincando com coelho" /></a> 
-        <span class="subtitulo_videos"><a title="Golden Retriever brincando com coelho" href="http://portaldodog.com.br/cachorros/videos/geralv/golden-retriever-brincando-com-coelho/">Golden Retriever brincando com coelho</a></span> 
+        <a title="Quando um Shih-Tzu descobre um le&atilde;o de pel&uacute;cia" href="http://portaldodog.com.br/cachorros/videos/videosengracados/quando-um-shih-tzu-descobre-um-leao-de-pelucia/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/quando-um-shih-tzu-descobre-um-leao-de-pelucia-100x60.jpg" class="img-raca-menu vid-m colorbox-17592  wp-post-image" alt="Quando um Shih-Tzu descobre um le&atilde;o de pel&uacute;cia" /></a> 
+        <span class="subtitulo_videos"><a title="Quando um Shih-Tzu descobre um le&atilde;o de pel&uacute;cia" href="http://portaldodog.com.br/cachorros/videos/videosengracados/quando-um-shih-tzu-descobre-um-leao-de-pelucia/">Quando um Shih-Tzu descobre um le&atilde;o de pel&uacute;cia</a></span> 
        </div>
        <!--fotos-videos-menu--> 
        <div class="fotos-videos-menu"> 
-        <a title="C&atilde;ozinho limpa as patas ao entrar em casa" href="http://portaldodog.com.br/cachorros/videos/videosengracados/caozinho-limpa-patas-ao-entrar-em-casa/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/caozinho-limpa-patas-ao-entrar-em-casa-100x60.jpg" class="img-raca-menu vid-m colorbox-17122  wp-post-image" alt="C&atilde;ozinho limpa as patas ao entrar em casa" /></a> 
-        <span class="subtitulo_videos"><a title="C&atilde;ozinho limpa as patas ao entrar em casa" href="http://portaldodog.com.br/cachorros/videos/videosengracados/caozinho-limpa-patas-ao-entrar-em-casa/">C&atilde;ozinho limpa as patas ao entrar em casa</a></span> 
+        <a title="Beb&ecirc; brincando com filhotinho de cachorro" href="http://portaldodog.com.br/cachorros/videos/videosengracados/bebe-brincando-com-filhotinho-de-cachorro/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/bebe-brincando-com-filhotinho-de-cachorro-100x60.jpg" class="img-raca-menu vid-m colorbox-17589  wp-post-image" alt="Beb&ecirc; brincando com filhotinho de cachorro" /></a> 
+        <span class="subtitulo_videos"><a title="Beb&ecirc; brincando com filhotinho de cachorro" href="http://portaldodog.com.br/cachorros/videos/videosengracados/bebe-brincando-com-filhotinho-de-cachorro/">Beb&ecirc; brincando com filhotinho de cachorro</a></span> 
        </div>
        <!--fotos-videos-menu--> 
        <div class="fotos-videos-menu"> 
-        <a title="Rottweiler com solu&ccedil;o" href="http://portaldodog.com.br/cachorros/videos/geralv/rottweiler-com-soluco/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/rottweiler-com-soluco-100x60.jpg" class="img-raca-menu vid-m colorbox-16998  wp-post-image" alt="Rottweiler com solu&ccedil;o" /></a> 
-        <span class="subtitulo_videos"><a title="Rottweiler com solu&ccedil;o" href="http://portaldodog.com.br/cachorros/videos/geralv/rottweiler-com-soluco/">Rottweiler com solu&ccedil;o</a></span> 
+        <a title="Filhote de Golden Retriever escutando o viol&atilde;o" href="http://portaldodog.com.br/cachorros/videos/geralv/filhote-de-golden-retriever-escutando-o-violao/"><img width="100" height="60" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/filhote-de-golden-retriever-escutando-o-violao-100x60.jpg" class="img-raca-menu vid-m colorbox-17537  wp-post-image" alt="Filhote de Golden Retriever escutando o viol&atilde;o" /></a> 
+        <span class="subtitulo_videos"><a title="Filhote de Golden Retriever escutando o viol&atilde;o" href="http://portaldodog.com.br/cachorros/videos/geralv/filhote-de-golden-retriever-escutando-o-violao/">Filhote de Golden Retriever escutando o viol&atilde;o</a></span> 
        </div>
        <!--fotos-videos-menu--> 
       </div> 
       <div class="trescolunas ultimo"> 
-       <a href="http://portaldodog.com.br/cachorros/videos/videosengracados/filhotinhos-aprendendo-uivar/" title="Filhotinhos aprendendo a uivar"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/11/filhotinhos-aprendendo-uivar-350x142.jpg" class="img-submenu vid-m colorbox-17327  wp-post-image" alt="Filhotinhos aprendendo a uivar" /></a> 
-       <h4 class="vid-submenu-h4"><a title="Filhotinhos aprendendo a uivar" href="http://portaldodog.com.br/cachorros/videos/videosengracados/filhotinhos-aprendendo-uivar/">Filhotinhos aprendendo a uivar</a></h4> 
+       <a href="http://portaldodog.com.br/cachorros/videos/videosengracados/cachorros-que-amam-baloes/" title="Cachorros que amam bal&otilde;es"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/12/cachorros-que-amam-baloes-350x142.jpg" class="img-submenu vid-m colorbox-17822  wp-post-image" alt="Cachorros que amam bal&otilde;es" /></a> 
+       <h4 class="vid-submenu-h4"><a title="Cachorros que amam bal&otilde;es" href="http://portaldodog.com.br/cachorros/videos/videosengracados/cachorros-que-amam-baloes/">Cachorros que amam bal&otilde;es</a></h4> 
       </div> 
      </div> </li> 
     <li id="esp"><a class="principal col-menu" href="#">Colunistas</a> 
@@ -470,19 +459,19 @@ jQuery.colorbox({href:"http://portaldodog.com.br/petgravia.html", open:true, scr
         &Uacute;LTIMAS
        </div>
        <!--titulo-ultimas--> 
-       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a> - <a href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
-       <span class="subtitulo_not"><a title="TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud" href="http://portaldodog.com.br/cachorros/noticias/tam-e-o-transporte-de-pet-leia-sobre-o-caso-da-nossa-leitora-simone-coulaud/">TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud</a></span> 
-       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/convivencia/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
-       <span class="subtitulo_not"><a title="Vai viajar com seu c&atilde;o de carro? Cuidados que podem evitar enj&ocirc;os" href="http://portaldodog.com.br/cachorros/convivencia/viagem/vai-viajar-com-seu-cao-de-carro-cuidados-que-podem-evitar-enjoos/">Vai viajar com seu c&atilde;o de carro? Cuidados que podem evitar enj&ocirc;os</a></span> 
-       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/" title="Ver todos os posts em Idosos" rel="category tag">Idosos</a></span> 
-       <span class="subtitulo_not"><a title="Cuidados com c&atilde;es idosos" href="http://portaldodog.com.br/cachorros/convivencia/idosos/cuidados-com-caes-idosos/">Cuidados com c&atilde;es idosos</a></span> 
-       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/convivencia/idosos/" title="Ver todos os posts em Idosos" rel="category tag">Idosos</a></span> 
-       <span class="subtitulo_not"><a title="S&iacute;ndrome da Disfun&ccedil;&atilde;o Cognitiva em c&atilde;es idosos (SDC)" href="http://portaldodog.com.br/cachorros/convivencia/idosos/sindrome-da-disfuncao-cognitiva-em-caes-idosos-sdc/">S&iacute;ndrome da Disfun&ccedil;&atilde;o Cognitiva em c&atilde;es idosos (SDC)</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <span class="subtitulo_not"><a title="Vai viajar com seu c&atilde;o de carro? Cuidados que podem evitar enj&ocirc;os" href="http://portaldodog.com.br/cachorros/viagem/vai-viajar-com-seu-cao-de-carro-cuidados-que-podem-evitar-enjoos/">Vai viajar com seu c&atilde;o de carro? Cuidados que podem evitar enj&ocirc;os</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <span class="subtitulo_not"><a title="Transportando animais nas principais linhas a&eacute;reas do pa&iacute;s" href="http://portaldodog.com.br/cachorros/viagem/transportando-animais-nas-principais-linhas-aereas-do-pais/">Transportando animais nas principais linhas a&eacute;reas do pa&iacute;s</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <span class="subtitulo_not"><a title="Viajando com animais vivos pela Gol Linhas A&eacute;reas" href="http://portaldodog.com.br/cachorros/viagem/viajando-com-animais-vivos-pela-gol-linhas-aereas/">Viajando com animais vivos pela Gol Linhas A&eacute;reas</a></span> 
+       <span class="titulo_cat_submenu cat_convivencia"><a href="http://portaldodog.com.br/cachorros/category/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <span class="subtitulo_not"><a title="Via Dr. Pet: Cuidados e preparativos para viajar de avi&atilde;o com o c&atilde;o" href="http://portaldodog.com.br/cachorros/viagem/via-dr-pet-cuidados-e-preparativos-para-viajar-de-aviao-com-o-cao/">Via Dr. Pet: Cuidados e preparativos para viajar de avi&atilde;o com o c&atilde;o</a></span> 
       </div> 
       <div class="trescolunas ultimo"> 
-       <span style="margin-left:10px;" class="titulo_cat_submenu cat_filhotes"><a href="http://portaldodog.com.br/cachorros/category/convivencia/filhotes/" title="Ver todos os posts em Filhotes" rel="category tag">Filhotes</a></span> 
-       <a href="http://portaldodog.com.br/cachorros/convivencia/filhotes/filhotes-caninos-e-o-leite-materno/" title="Filhotes caninos e o leite materno."><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/03/filhote-cachorro-amamentando-leite-350x142.jpg" class="img-submenu convivencia-m colorbox-10841  wp-post-image" alt="Filhotes caninos e o leite materno" /></a> 
-       <h4 class="fot-submenu-h4"><a title="Filhotes caninos e o leite materno." href="http://portaldodog.com.br/cachorros/convivencia/filhotes/filhotes-caninos-e-o-leite-materno/">Filhotes caninos e o leite materno.</a></h4> 
+       <span style="margin-left:10px;" class="titulo_cat_submenu cat_noticias"><a href="http://portaldodog.com.br/cachorros/category/noticias/" title="Ver todos os posts em Not&iacute;cias" rel="category tag">Not&iacute;cias</a> - <a href="http://portaldodog.com.br/cachorros/category/viagem/" title="Ver todos os posts em Viagem" rel="category tag">Viagem</a></span> 
+       <a href="http://portaldodog.com.br/cachorros/noticias/tam-e-o-transporte-de-pet-leia-sobre-o-caso-da-nossa-leitora-simone-coulaud/" title="TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud"><img width="350" height="142" src="http://portaldodog.com.br/cachorros/wp-content/uploads/2013/01/Simone_Coulaud_caso2-350x142.jpg" class="img-submenu convivencia-m colorbox-9166  wp-post-image" alt="Simone_Coulaud_caso" /></a> 
+       <h4 class="fot-submenu-h4"><a title="TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud" href="http://portaldodog.com.br/cachorros/noticias/tam-e-o-transporte-de-pet-leia-sobre-o-caso-da-nossa-leitora-simone-coulaud/">TAM e o transporte de PETS. Leia sobre o caso da nossa leitora Simone Coulaud</a></h4> 
       </div> 
      </div> </li> 
     <li id="port"><a class="principal conv-menu" href="#">+ Portal</a> 
@@ -674,6 +663,41 @@ jQuery(document).ready(function($) {
            {if (theField.value == '')
            theField.value = theField .defaultValue;}
         </script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"true","colorboxSlideshowAuto":"false","colorboxScalePhotos":"true","colorboxPreloading":"true","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"fechar","colorboxNext":"pr\u00f3xima","colorboxPrevious":"anterior","colorboxSlideshowStart":"iniciar apresenta\u00e7\u00e3o","colorboxSlideshowStop":"parar apresenta\u00e7\u00e3o","colorboxCurrent":"Imagem {current} de {total}","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"80%","colorboxImageMaxHeight":"80%","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"80%","colorboxLinkWidth":"80%","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"true","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.3.21"></script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6"></script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/tubepress_pro_2_4_5/sys/ui/static/js/tubepress.js?ver=3.7.1"></script> 
+  <style type="text/css">
+		.stpulldown-gradient
+		{
+			background: #E1E1E1;
+			background: -moz-linear-gradient(top, #E1E1E1 0%, #A7A7A7 100%); /* firefox */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E1E1E1), color-stop(100%,#A7A7A7)); /* webkit */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E1E1E1', endColorstr='#A7A7A7',GradientType=0 ); /* ie */
+			background: -o-linear-gradient(top, #E1E1E1 0%,#A7A7A7 100%); /* opera */
+			color: #636363;
+		}
+		#stpulldown .stpulldown-logo
+		{
+			height: 40px;
+			width: 300px;
+			margin-left: 20px;
+			margin-top: 5px;
+			background:url('') no-repeat;
+		}
+</style> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3"></script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995"></script> 
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06"></script> 
   <!-- Start Alexa Certify Javascript --> 
   <script type="text/javascript">
 _atrk_opts = { atrk_acct:"bI9ki1aUCm002m", domain:"portaldodog.com.br",dynamic: true};
@@ -704,8 +728,10 @@ _atrk_opts = { atrk_acct:"bI9ki1aUCm002m", domain:"portaldodog.com.br",dynamic: 
         }());
     //]]>
     </script> 
-  <!-- Generated in 0,779 seconds. Made 67 queries to database and 52 cached queries. Memory used - 22.83MB --> 
-  <!-- Cached by DB Cache Reloaded Fix --> 
+  <link rel="stylesheet" id="wp-email-css" href="http://portaldodog.com.br/cachorros/wp-content/themes/PortaldoDog/email-css.css?ver=2.60" type="text/css" media="all" /> 
+  <link rel="stylesheet" id="wp-polls-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-polls/polls-css.css?ver=2.63" type="text/css" media="all" /> 
+  <link rel="stylesheet" id="NextGEN-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0" type="text/css" media="screen" /> 
+  <link rel="stylesheet" id="shutter-css" href="http://portaldodog.com.br/cachorros/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4" type="text/css" media="screen" /> 
   <script type="text/javascript">
 /* <![CDATA[ */
 var emailL10n = {"ajax_url":"http:\/\/portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"Ocorreram os seguintes erros:","text_name_invalid":"- Seu nome \u00e9 vazio\/inv\u00e1lido","text_email_invalid":"- Seu email \u00e9 vazio\/inv\u00e1lido","text_remarks_invalid":"- Seu coment\u00e1rio \u00e9 inv\u00e1lido","text_friend_names_empty":"- Nome de amigo(s) \u00e9 vazio","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Nome de amigo(s) \u00e9 vazio","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- O n\u00famero de nomes de amigos n\u00e3o conferem com o n\u00famero de emails de amigos","text_image_verify_empty":"- Imagem de valida\u00e7\u00e3o \u00e9 vazia"};
@@ -717,12 +743,14 @@ var emailL10n = {"ajax_url":"http:\/\/portaldodog.com.br\/cachorros\/wp-admin\/a
 var pollsL10n = {"ajax_url":"http:\/\/portaldodog.com.br\/cachorros\/wp-admin\/admin-ajax.php","text_wait":"Sua \u00faltima requisi\u00e7\u00e3o est\u00e1 sendo processada. Por favor, espere um momento ...","text_valid":"Por favor, escolha uma resposta v\u00e1lida para enquete.","text_multiple":"N\u00famero de escolhas permitidas:","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script> 
-  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-polls/polls-js.js?ver=2.63"></script>   
+  <script type="text/javascript" src="http://portaldodog.com.br/cachorros/wp-content/plugins/wp-polls/polls-js.js?ver=2.63"></script> 
+  <!-- Generated in 1,140 seconds. Made 77 queries to database and 49 cached queries. Memory used - 32.01MB --> 
+  <!-- Cached by DB Cache Reloaded Fix -->   
   <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using disk: enhanced
-Object Caching 4569/4854 objects using disk
+Object Caching 4545/4868 objects using apc
 
- Served from: portaldodog.com.br @ 2013-11-25 12:00:14 by W3 Total Cache -->
+ Served from: portaldodog.com.br @ 2013-12-04 13:03:35 by W3 Total Cache -->
  </body>
 </html>

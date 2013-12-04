@@ -6,15 +6,20 @@ import java.util.List;
 
 import modelo.Grupo;
 
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 public class DadosGrupo {
 	
 	private Element elemento;
-	
 	private ArrayList<Grupo> grupos = new ArrayList<Grupo>();
-
+	
+	/*
+	 * Construtor instancia uma lista com os links dos grupos
+	 * cada link contem suas respectivas racas
+	 * 
+	 * Em seguida ele poercorre cada página de grupo e instancia
+	 * um novo objeto do tipo Grupo, então armazena esse objeto em uma
+	 * lista de objetos do tipo Grupo*/
 	public DadosGrupo() throws IOException {
 		List<String> urls = new ArrayList<String>();
 
@@ -31,7 +36,7 @@ public class DadosGrupo {
 		
 		for (String url : urls) {
 			reader.getHTML(url);
-			separarConteudo(reader.getDocument(), "conteudo");
+			this.elemento = reader.getDocument();
 			
 			grupo.setNome(getNomeGrupo());
 			grupo.setDescricao(getDescricaoGrupo());
@@ -41,11 +46,6 @@ public class DadosGrupo {
 			this.grupos.add(grupo);
 			grupo = new Grupo();
 		}
-	}
-
-	public void separarConteudo(Document html, String id) {
-		Element elemento = html.getElementById(id);
-		this.setElemento(elemento);
 	}
 
 	public String getNomeGrupo() {

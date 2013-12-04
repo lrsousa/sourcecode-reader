@@ -1,7 +1,9 @@
 package sourceCodeReader;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
+import modelo.Cachorro;
 import modelo.Grupo;
 
 import org.jsoup.nodes.Document;
@@ -11,18 +13,31 @@ import org.jsoup.select.Elements;
 public class DadosCachorro {
 
 	private Element elemento;
+	private ArrayList<Cachorro> cachorros = new ArrayList<Cachorro>();
 	
-	/*Separar Conteúdo*/
-	public void separarConteudo(Document html, String id) {
-		Element elemento = html.getElementById(id);
-		this.elemento = elemento;
+	public DadosCachorro() throws IOException {
+		GetSouceCode reader = new GetSouceCode();
+		DadosGrupo dadosGrupo = new DadosGrupo();
+		
+		Cachorro cachorro = new Cachorro();
+		reader.getHTML(dadosGrupo.getLinksRacas().get(0));
+		this.elemento = reader.getDocument();
+		
+		
+		
+//		for (String url : dadosGrupo.getLinksRacas()) {
+//			reader.getHTML(url);
+//			this.elemento = reader.getDocument();
+//			
+//			
+//		}
+		
 	}
 	
 	public String getNome() {
 		String nome;
-		Elements temp = this.elemento.getElementsByTag("h2");
-		nome = temp.eq(0).text();
-		nome = nome.substring(22);
+		Element temp = this.elemento.getElementById("raca_titulo2");
+		nome = temp.text();
 		return nome;
 	}
 	
@@ -57,6 +72,10 @@ public class DadosCachorro {
 	public String getTamanhoMacho() {
 		String tamanho;
 		Elements temp = this.elemento.getElementsByClass("dado");
+		tamanho = temp.eq(0).text();
+		if(tamanho.length() < 7) {
+			return null;
+		}
 		tamanho = temp.eq(0).text().substring(7);
 		return tamanho;
 	}
@@ -64,6 +83,10 @@ public class DadosCachorro {
 	public String getTamanhoFemea() {
 		String tamanho;
 		Elements temp = this.elemento.getElementsByClass("dado");
+		tamanho = temp.eq(1).text();
+		if(tamanho.length() < 7) {
+			return null;
+		}
 		tamanho = temp.eq(1).text().substring(7);
 		return tamanho;
 	}
@@ -71,6 +94,10 @@ public class DadosCachorro {
 	public String getPesoMacho() {
 		String peso;
 		Elements temp = this.elemento.getElementsByClass("dado");
+		peso = temp.eq(2).text();
+		if(peso.length() < 7) {
+			return null;
+		}
 		peso = temp.eq(2).text().substring(7);
 		return peso;
 	}
@@ -78,6 +105,10 @@ public class DadosCachorro {
 	public String getPesoFemea() {
 		String peso;
 		Elements temp = this.elemento.getElementsByClass("dado");
+		peso = temp.eq(3).text();
+		if(peso.length() < 7) {
+			return null;
+		}
 		peso = temp.eq(3).text().substring(7);
 		return peso;
 	}
@@ -85,6 +116,10 @@ public class DadosCachorro {
 	public String getNivelEnergia() {
 		String nivelEnergia;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		nivelEnergia = temp.eq(0).text();
+		if(nivelEnergia.length() < 19) {
+			return null;
+		}
 		nivelEnergia = temp.eq(0).text().substring(19);
 		return nivelEnergia;
 	}
@@ -92,6 +127,10 @@ public class DadosCachorro {
 	public String getExercicio() {
 		String exercicio;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		exercicio = temp.eq(1).text();
+		if(exercicio.length() < 12) {
+			return null;
+		}
 		exercicio = temp.eq(1).text().substring(12);
 		return exercicio;
 	}
@@ -99,6 +138,10 @@ public class DadosCachorro {
 	public String getBrincalhao() {
 		String brincalhao;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		brincalhao = temp.eq(2).text();
+		if(brincalhao.length() < 13) {
+			return null;
+		}
 		brincalhao = temp.eq(2).text().substring(13);
 		return brincalhao;
 	}
@@ -106,6 +149,10 @@ public class DadosCachorro {
 	public String getNivelAfeicao() {
 		String nivelAfeicao;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		nivelAfeicao = temp.eq(3).text();
+		if(nivelAfeicao.length() < 19) {
+			return null;
+		}
 		nivelAfeicao = temp.eq(3).text().substring(19);
 		return nivelAfeicao;
 	}
@@ -113,6 +160,10 @@ public class DadosCachorro {
 	public String getAmigavelComCachorros() {
 		String amigavelComCachorros;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		amigavelComCachorros = temp.eq(4).text();
+		if(amigavelComCachorros.length() < 32) {
+			return null;
+		}
 		amigavelComCachorros = temp.eq(4).text().substring(32);
 		return amigavelComCachorros;
 	}
@@ -120,6 +171,10 @@ public class DadosCachorro {
 	public String getAmigavelAnimais() {
 		String amigavelAnimais;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		amigavelAnimais = temp.eq(5).text();
+		if(amigavelAnimais.length() < 43) {
+			return null;
+		}
 		amigavelAnimais = temp.eq(5).text().substring(43);
 		return amigavelAnimais;
 	}
@@ -127,6 +182,10 @@ public class DadosCachorro {
 	public String getAmigavelEstranhos() {
 		String amigavelEstranhos;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		amigavelEstranhos = temp.eq(6).text();
+		if(amigavelEstranhos.length() < 25) {
+			return null;
+		}
 		amigavelEstranhos = temp.eq(6).text().substring(25);
 		return amigavelEstranhos;
 	}
@@ -134,6 +193,10 @@ public class DadosCachorro {
 	public String getFacilTreinar() {
 		String facilTreinar;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		facilTreinar = temp.eq(7).text();
+		if(facilTreinar.length() < 19) {
+			return null;
+		}
 		facilTreinar = temp.eq(7).text().substring(19);
 		return facilTreinar;
 	}
@@ -141,6 +204,10 @@ public class DadosCachorro {
 	public String getGuarda() {
 		String guarda;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		guarda = temp.eq(8).text();
+		if(guarda.length() < 16) {
+			return null;
+		}
 		guarda = temp.eq(8).text().substring(16);
 		return guarda;
 	}
@@ -148,6 +215,10 @@ public class DadosCachorro {
 	public String getHabilidadeProtecao() {
 		String habilidadeProtecao;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		habilidadeProtecao = temp.eq(9).text();
+		if(habilidadeProtecao.length() < 25) {
+			return null;
+		}
 		habilidadeProtecao = temp.eq(9).text().substring(25);
 		return habilidadeProtecao;
 	}
@@ -155,6 +226,10 @@ public class DadosCachorro {
 	public String getCuidadosAparencia() {
 		String cuidadosAparencia;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		cuidadosAparencia = temp.eq(10).text();
+		if(cuidadosAparencia.length() < 27) {
+			return null;
+		}
 		cuidadosAparencia = temp.eq(10).text().substring(27);
 		return cuidadosAparencia;
 	}
@@ -162,6 +237,10 @@ public class DadosCachorro {
 	public String getToleranciaFrio() {
 		String toleranciaFrio;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		toleranciaFrio = temp.eq(11).text();
+		if(toleranciaFrio.length() < 21) {
+			return null;
+		}
 		toleranciaFrio = temp.eq(11).text().substring(21);
 		return toleranciaFrio;
 	}
@@ -169,21 +248,25 @@ public class DadosCachorro {
 	public String getToleranciaCalor() {
 		String toleranciaCalor;
 		Elements temp = this.elemento.getElementById("caracteristicas_raca").getElementsByTag("li");
+		toleranciaCalor = temp.eq(12).text();
+		if(toleranciaCalor.length() < 22) {
+			return null;
+		}
 		toleranciaCalor = temp.eq(12).text().substring(22);
 		return toleranciaCalor;
 	}
 	
 	public String getSaude() {
 		String saude;
-		Elements temp = this.elemento.getElementsByClass("acc_pag");
-		saude = temp.eq(2).text();
+		Elements temp = this.elemento.getElementsByClass("text");
+		saude = temp.eq(0).text();
 		return saude;
 	}
 	
 	public String getOrigem() {
 		String origem;
-		Elements temp = this.elemento.getElementsByClass("acc_pag");
-		origem = temp.eq(3).text();
+		Elements temp = this.elemento.getElementsByClass("text");
+		origem = temp.eq(1).text();
 		return origem;
 	}
 	

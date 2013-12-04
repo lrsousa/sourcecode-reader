@@ -1,0 +1,8 @@
+create table portaldogCachorros (
+	id int primary_key not null auto increment,
+	nome varchar(50),
+	infoGeral varchar(500),
+	infoGeral varchar(50),
+	infoGeral varchar(50),
+	 
+);

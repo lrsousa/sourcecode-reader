@@ -4,6 +4,7 @@ package modelo;
 public class Cachorro {
 	
 //	Informações Gerais
+	private int id;
 	private String nome;
 	private String infoGeral;
 	private String nomeCientifico;
@@ -204,5 +205,11 @@ public class Cachorro {
 	}
 	public void setLink(String link) {
 		this.link = link;
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
 	}
 }
