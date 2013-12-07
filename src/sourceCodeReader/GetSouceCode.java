@@ -11,7 +11,7 @@ public class GetSouceCode {
 	
 	/*Armazenar todo conteúdo do HTML*/
 	public void getHTML (String url) throws IOException {
-		Document documento = Jsoup.connect(url).timeout(10000).get();
+		Document documento = Jsoup.connect(url).timeout(20000).get();
 		this.setDocument(documento);
 	}
 	

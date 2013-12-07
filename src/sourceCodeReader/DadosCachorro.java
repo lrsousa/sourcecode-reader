@@ -1,37 +1,70 @@
 package sourceCodeReader;
 
 import java.io.IOException;
+import java.sql.SQLException;
 import java.util.ArrayList;
 
 import modelo.Cachorro;
 import modelo.Grupo;
 
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import dao.CachorroDao;
 
 public class DadosCachorro {
 
 	private Element elemento;
 	private ArrayList<Cachorro> cachorros = new ArrayList<Cachorro>();
-	
-	public DadosCachorro() throws IOException {
+
+	public DadosCachorro() throws IOException, SQLException {
 		GetSouceCode reader = new GetSouceCode();
 		DadosGrupo dadosGrupo = new DadosGrupo();
+		CachorroDao dao = new CachorroDao();
 		
 		Cachorro cachorro = new Cachorro();
-		reader.getHTML(dadosGrupo.getLinksRacas().get(0));
-		this.elemento = reader.getDocument();
 		
-		
-		
-//		for (String url : dadosGrupo.getLinksRacas()) {
-//			reader.getHTML(url);
-//			this.elemento = reader.getDocument();
-//			
-//			
-//		}
-		
+		for (Grupo grupo : dadosGrupo.getGrupos()) {
+			for (String url : grupo.getLinksRacas()) {
+				reader.getHTML(url);
+				this.elemento = reader.getDocument();
+				
+				cachorro.setNome(getNome());
+				cachorro.setInfoGeral(getInformacaoGeral());
+				cachorro.setNomeCientifico(getNomeCientifico());
+				cachorro.setPerfil(getPerfil());
+				cachorro.setTemperamento(getTemperamento());
+				cachorro.setTamanhoMacho(getTamanhoMacho());
+				cachorro.setTamanhoFemea(getTamanhoFemea());
+				cachorro.setPesoMacho(getPesoMacho());
+				cachorro.setPesoFemea(getPesoFemea());
+				cachorro.setNivelEnergia(getNivelEnergia());
+				cachorro.setExercicio(getExercicio());
+				cachorro.setBrincalhao(getBrincalhao());
+				cachorro.setNivelAfeicao(getNivelAfeicao());
+				cachorro.setAmigavelCachorros(getAmigavelComCachorros());
+				cachorro.setAmigavelAnimais(getAmigavelAnimais());
+				cachorro.setAmigavelEstranhos(getAmigavelEstranhos());
+				cachorro.setFacilTreinar(getFacilTreinar());
+				cachorro.setGuarda(getGuarda());
+				cachorro.setHabilidadeProtecao(getHabilidadeProtecao());
+				cachorro.setCuidadosAparencia(getCuidadosAparencia());
+				cachorro.setToleranciaFrio(getToleranciaFrio());
+				cachorro.setToleranciaCalor(getToleranciaCalor());
+				cachorro.setSaude(getSaude());
+				cachorro.setOrigem(getOrigem());
+				cachorro.setGrupo(getGrupo(cachorro.getNome()));
+				cachorro.setLink(getLink(cachorro.getNome()));
+				
+				cachorros.add(cachorro);
+				
+				System.out.println("Pegou: " + cachorro.getNome());
+				
+				dao.adicionaCachorro(cachorro);
+				
+				cachorro = new Cachorro();
+			}
+		}
 	}
 	
 	public String getNome() {
@@ -288,5 +321,9 @@ public class DadosCachorro {
 			}
 		}
 		return null;
+	}
+	
+	public ArrayList<Cachorro> getCachorros() {
+		return cachorros;
 	}
 }
